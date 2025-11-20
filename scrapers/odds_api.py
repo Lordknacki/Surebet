@@ -2,7 +2,7 @@
 import os
 import requests
 
-# ⚠️ En prod / sur GitHub Actions : utilise la variable d'environnement ODDS_API_KEY
+# En prod / sur GitHub Actions : ODDS_API_KEY doit être dans les secrets
 API_KEY = os.getenv("ODDS_API_KEY", "b810457ba299479dfbdfb647b2a408ae")
 
 # On cible directement le football (soccer)
@@ -25,6 +25,7 @@ def scrape():
     {
         "bookmaker": "...",
         "match": "Home - Away",
+        "event_type": "Soccer - UEFA Champions League",
         "odds": {"1": x.xx, "N": y.yy, "2": z.zz}
     }
     utilisable directement par surebet_engine.detect_surebets().
@@ -57,6 +58,8 @@ def scrape():
             continue
 
         match_name = f"{home} - {away}"
+        event_type = ev.get("sport_title", "")  # ex : "Soccer - UEFA Champions League"
+
         bookmakers = ev.get("bookmakers", [])
 
         for bm in bookmakers:
@@ -89,6 +92,7 @@ def scrape():
                         {
                             "bookmaker": bm_name,
                             "match": match_name,
+                            "event_type": event_type,
                             "odds": odds_map,
                         }
                     )
