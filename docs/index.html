@@ -60,44 +60,57 @@
   </table>
 
   <script>
-    async function loadSurebets() {
-      try {
-        const res = await fetch('surebets.json');
-        console.log('Status fetch surebets.json :', res.status);
-        const data = await res.json();
-        console.log('JSON reçu :', data);
+  async function loadSurebets() {
+    try {
+      const res = await fetch('surebets.json');
+      console.log('Status fetch surebets.json :', res.status);
+      const data = await res.json();
+      console.log('JSON reçu :', data);
 
-        const tbody = document.querySelector('#surebets tbody');
-        tbody.innerHTML = '';
+      // 🔥 Ajout de l’heure d’actualisation
+      const now = new Date();
+      const formatted = now.toLocaleString("fr-FR", {
+          day: "2-digit",
+          month: "2-digit",
+          year: "numeric",
+          hour: "2-digit",
+          minute: "2-digit",
+          second: "2-digit"
+      });
+      document.getElementById("last-update").innerText =
+          "Dernière actualisation : " + formatted;
 
-        data.forEach(item => {
-          const row = document.createElement('tr');
+      const tbody = document.querySelector('#surebets tbody');
+      tbody.innerHTML = '';
 
-          if (item.is_surebet) {
-            row.classList.add('surebet');
-          }
+      data.forEach(item => {
+        const row = document.createElement('tr');
 
-          const profit = item.profit_percent || 0;
-          const profitStr =
-            (profit > 0 ? '+' : '') + profit.toFixed(2) + '%';
-          const profitClass = profit > 0 ? 'profit positive' : 'profit negative';
+        if (item.is_surebet) {
+          row.classList.add('surebet');
+        }
 
-          row.innerHTML = `
-            <td>${item.event_type || ''}</td>
-            <td>${item.match}</td>
-            <td>${item.outcomes["1"].odd} (${item.outcomes["1"].bookmaker})<br><small>${item.outcomes["1"].stake} €</small></td>
-            <td>${item.outcomes["N"].odd} (${item.outcomes["N"].bookmaker})<br><small>${item.outcomes["N"].stake} €</small></td>
-            <td>${item.outcomes["2"].odd} (${item.outcomes["2"].bookmaker})<br><small>${item.outcomes["2"].stake} €</small></td>
-            <td class="${profitClass}">${profitStr}</td>
-          `;
-          tbody.appendChild(row);
-        });
-      } catch (err) {
-        console.error('Erreur lors du chargement des surebets :', err);
-      }
+        const profit = item.profit_percent || 0;
+        const profitStr =
+          (profit > 0 ? '+' : '') + profit.toFixed(2) + '%';
+        const profitClass = profit > 0 ? 'profit positive' : 'profit negative';
+
+        row.innerHTML = `
+          <td>${item.event_type || ''}</td>
+          <td>${item.match}</td>
+          <td>${item.outcomes["1"].odd} (${item.outcomes["1"].bookmaker})<br><small>${item.outcomes["1"].stake} €</small></td>
+          <td>${item.outcomes["N"].odd} (${item.outcomes["N"].bookmaker})<br><small>${item.outcomes["N"].stake} €</small></td>
+          <td>${item.outcomes["2"].odd} (${item.outcomes["2"].bookmaker})<br><small>${item.outcomes["2"].stake} €</small></td>
+          <td class="${profitClass}">${profitStr}</td>
+        `;
+        tbody.appendChild(row);
+      });
+    } catch (err) {
+      console.error('Erreur lors du chargement des surebets :', err);
     }
+  }
 
-    loadSurebets();
-  </script>
+  loadSurebets();
+</script>
 </body>
 </html>
