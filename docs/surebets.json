@@ -4,22 +4,22 @@
     "event_type": "Brazil Série A",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
-        "odd": 13.5,
-        "stake": 17.93
+        "bookmaker": "Pinnacle",
+        "odd": 16.85,
+        "stake": 15.84
       },
       "N": {
-        "bookmaker": "Matchbook",
-        "odd": 6.0,
-        "stake": 40.34
+        "bookmaker": "Pinnacle",
+        "odd": 6.73,
+        "stake": 39.67
       },
       "2": {
-        "bookmaker": "Codere (IT)",
-        "odd": 5.8,
-        "stake": 41.73
+        "bookmaker": "Bovada",
+        "odd": 6.0,
+        "stake": 44.49
       }
     },
-    "profit_percent": 142.04,
+    "profit_percent": 166.95,
     "is_surebet": true
   },
   {
@@ -27,22 +27,22 @@
     "event_type": "Brazil Série A",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
-        "odd": 2.58,
-        "stake": 38.88
+        "bookmaker": "BetOnline.ag",
+        "odd": 2.57,
+        "stake": 39.35
       },
       "N": {
         "bookmaker": "1xBet",
         "odd": 2.86,
-        "stake": 35.07
+        "stake": 35.36
       },
       "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.85,
-        "stake": 26.05
+        "bookmaker": "Betfair",
+        "odd": 4.0,
+        "stake": 25.28
       }
     },
-    "profit_percent": 0.3,
+    "profit_percent": 1.14,
     "is_surebet": true
   },
   {
@@ -51,45 +51,22 @@
     "outcomes": {
       "1": {
         "bookmaker": "Matchbook",
-        "odd": 2.28,
-        "stake": 43.94
+        "odd": 2.3,
+        "stake": 43.72
       },
       "N": {
         "bookmaker": "Smarkets",
         "odd": 3.65,
-        "stake": 27.44
+        "stake": 27.55
       },
       "2": {
         "bookmaker": "LowVig.ag",
         "odd": 3.5,
-        "stake": 28.62
+        "stake": 28.73
       }
     },
-    "profit_percent": 0.17,
+    "profit_percent": 0.56,
     "is_surebet": true
-  },
-  {
-    "match": "Ceará - Internacional",
-    "event_type": "Brazil Série A",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 2.22,
-        "stake": 45.04
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 3.45,
-        "stake": 28.98
-      },
-      "2": {
-        "bookmaker": "Smarkets",
-        "odd": 3.85,
-        "stake": 25.97
-      }
-    },
-    "profit_percent": -0.0,
-    "is_surebet": false
   },
   {
     "match": "Pachuca - Pumas",
@@ -115,26 +92,26 @@
     "is_surebet": false
   },
   {
-    "match": "Adelaide United - Melbourne City",
-    "event_type": "A-League",
+    "match": "Ceará - Internacional",
+    "event_type": "Brazil Série A",
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 3.0,
-        "stake": 33.12
+        "odd": 2.2,
+        "stake": 45.27
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 3.85,
-        "stake": 25.81
+        "bookmaker": "Matchbook",
+        "odd": 3.45,
+        "stake": 28.87
       },
       "2": {
-        "bookmaker": "Matchbook",
-        "odd": 2.42,
-        "stake": 41.06
+        "bookmaker": "Smarkets",
+        "odd": 3.85,
+        "stake": 25.87
       }
     },
-    "profit_percent": -0.63,
+    "profit_percent": -0.41,
     "is_surebet": false
   },
   {
@@ -142,22 +119,68 @@
     "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
-        "bookmaker": "Betfair",
-        "odd": 1.91,
-        "stake": 51.85
+        "bookmaker": "Matchbook",
+        "odd": 1.92,
+        "stake": 51.72
       },
       "N": {
         "bookmaker": "Pinnacle",
         "odd": 4.03,
-        "stake": 24.57
+        "stake": 24.64
       },
       "2": {
         "bookmaker": "Betfair",
         "odd": 4.2,
-        "stake": 23.58
+        "stake": 23.64
       }
     },
-    "profit_percent": -0.97,
+    "profit_percent": -0.7,
+    "is_surebet": false
+  },
+  {
+    "match": "Silkeborg IF - AGF Aarhus",
+    "event_type": "Denmark Superliga",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 3.75,
+        "stake": 26.46
+      },
+      "N": {
+        "bookmaker": "Unibet (NL)",
+        "odd": 3.95,
+        "stake": 25.12
+      },
+      "2": {
+        "bookmaker": "DraftKings",
+        "odd": 2.05,
+        "stake": 48.41
+      }
+    },
+    "profit_percent": -0.76,
+    "is_surebet": false
+  },
+  {
+    "match": "Adelaide United - Melbourne City",
+    "event_type": "A-League",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 3.0,
+        "stake": 33.01
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 3.85,
+        "stake": 25.72
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 2.4,
+        "stake": 41.26
+      }
+    },
+    "profit_percent": -0.96,
     "is_surebet": false
   },
   {
@@ -167,20 +190,20 @@
       "1": {
         "bookmaker": "Smarkets",
         "odd": 1.62,
-        "stake": 61.0
+        "stake": 61.04
       },
       "N": {
-        "bookmaker": "Matchbook",
-        "odd": 4.5,
-        "stake": 21.96
+        "bookmaker": "Winamax (DE)",
+        "odd": 4.4,
+        "stake": 22.48
       },
       "2": {
-        "bookmaker": "Matchbook",
-        "odd": 5.8,
-        "stake": 17.04
+        "bookmaker": "Betfair",
+        "odd": 6.0,
+        "stake": 16.48
       }
     },
-    "profit_percent": -1.18,
+    "profit_percent": -1.11,
     "is_surebet": false
   },
   {
