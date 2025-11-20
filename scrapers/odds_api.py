@@ -2,41 +2,53 @@
 import os
 import requests
 
-# 👉 En local tu peux laisser la clé en dur le temps de tester
+# ⚠️ En prod / sur GitHub Actions : utilise la variable d'environnement ODDS_API_KEY
 API_KEY = os.getenv("ODDS_API_KEY", "b810457ba299479dfbdfb647b2a408ae")
 
-BASE_URL = "https://api.the-odds-api.com/v4/sports/upcoming/odds/"
+# On cible directement le football (soccer)
+BASE_URL = "https://api.the-odds-api.com/v4/sports/soccer/odds/"
 
+# On demande un max de régions (donc un max de bookmakers)
 PARAMS = {
-    "regions": "eu",   # comme dans ton URL
-    "markets": "h2h",  # 1N2 (head-to-head)
+    "regions": "eu,uk,us,au",   # Europe, UK, USA, Australie
+    "markets": "h2h",           # 1X2 / head-to-head
+    "oddsFormat": "decimal",
     "apiKey": API_KEY,
 }
 
 
 def scrape():
     """
-    Récupère toutes les cotes H2H à venir en Europe
-    via The Odds API, filtre sur le football/soccer,
-    et renvoie une liste au format attendu par surebet_engine.detect_surebets().
+    Récupère un maximum de matchs de football avec leurs cotes 1N2
+    via The Odds API, sur plusieurs régions (eu, uk, us, au),
+    et renvoie une liste d'objets au format :
+    {
+        "bookmaker": "...",
+        "match": "Home - Away",
+        "odds": {"1": x.xx, "N": y.yy, "2": z.zz}
+    }
+    utilisable directement par surebet_engine.detect_surebets().
     """
     try:
-        res = requests.get(BASE_URL, params=PARAMS, timeout=10)
+        res = requests.get(BASE_URL, params=PARAMS, timeout=15)
     except Exception as e:
         print(f"[OddsAPI] Erreur de requête : {e}")
         return []
 
     if res.status_code != 200:
-        print(f"[OddsAPI] Statut HTTP inattendu : {res.status_code} / {res.text[:200]}")
+        print(f"[OddsAPI] Statut HTTP inattendu : {res.status_code}")
+        print(res.text[:500])
         return []
 
     events = res.json()
     results = []
 
+    print(f"[OddsAPI] Évènements renvoyés par l'API : {len(events)}")
+
     for ev in events:
         sport_key = ev.get("sport_key", "")
-        # ⚽ On garde seulement les sports de type soccer/football
-        if "soccer" not in sport_key and "football" not in sport_key:
+        # Par sécurité : on ne garde que les trucs soccer
+        if not sport_key.startswith("soccer"):
             continue
 
         home = ev.get("home_team")
@@ -45,8 +57,8 @@ def scrape():
             continue
 
         match_name = f"{home} - {away}"
-
         bookmakers = ev.get("bookmakers", [])
+
         for bm in bookmakers:
             bm_name = bm.get("title") or bm.get("key")
 
@@ -63,16 +75,16 @@ def scrape():
                     if name is None or price is None:
                         continue
 
-                    # On mappe home/draw/away en 1 / N / 2
+                    # On mappe : home → 1, away → 2, draw → N
                     if name == home:
                         odds_map["1"] = float(price)
                     elif name == away:
                         odds_map["2"] = float(price)
-                    elif name.lower() in ("draw", "nul", "tie"):
+                    elif str(name).lower() in ("draw", "nul", "tie"):
                         odds_map["N"] = float(price)
 
-                # On ne garde que si on a les 3 issues
-                if len(odds_map) == 3:
+                # On ne garde que les cotes où il y a bien 1, N, 2
+                if set(odds_map.keys()) == {"1", "N", "2"}:
                     results.append(
                         {
                             "bookmaker": bm_name,
@@ -81,5 +93,5 @@ def scrape():
                         }
                     )
 
-    print(f"[OddsAPI] Matchs récupérés : {len(results)}")
+    print(f"[OddsAPI] Offres exploitables (1N2 complètes) : {len(results)}")
     return results
