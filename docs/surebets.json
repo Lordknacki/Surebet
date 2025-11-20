@@ -4,22 +4,22 @@
     "event_type": "Brazil Série A",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
-        "odd": 60.0,
-        "stake": 6.25
+        "bookmaker": "Betfair",
+        "odd": 390.0,
+        "stake": 1.23
       },
       "N": {
-        "bookmaker": "Unibet (SE)",
-        "odd": 12.0,
-        "stake": 31.25
+        "bookmaker": "Betfair",
+        "odd": 30.0,
+        "stake": 16.0
       },
       "2": {
-        "bookmaker": "Bovada",
-        "odd": 6.0,
-        "stake": 62.5
+        "bookmaker": "Codere (IT)",
+        "odd": 5.8,
+        "stake": 82.77
       }
     },
-    "profit_percent": 275.0,
+    "profit_percent": 380.05,
     "is_surebet": true
   },
   {
@@ -28,44 +28,44 @@
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 2.62,
-        "stake": 39.09
+        "odd": 2.7,
+        "stake": 38.9
       },
       "N": {
-        "bookmaker": "BetOnline.ag",
+        "bookmaker": "Bovada",
         "odd": 2.85,
-        "stake": 35.93
+        "stake": 36.85
       },
       "2": {
-        "bookmaker": "Matchbook",
-        "odd": 4.1,
-        "stake": 24.98
+        "bookmaker": "Coolbet",
+        "odd": 4.33,
+        "stake": 24.25
       }
     },
-    "profit_percent": 2.41,
+    "profit_percent": 5.02,
     "is_surebet": true
   },
   {
-    "match": "Ceará - Internacional",
-    "event_type": "Brazil Série A",
+    "match": "Tijuana - FC Juárez",
+    "event_type": "Liga MX",
     "outcomes": {
       "1": {
-        "bookmaker": "Bovada",
-        "odd": 2.25,
-        "stake": 44.86
+        "bookmaker": "Matchbook",
+        "odd": 2.28,
+        "stake": 43.94
       },
       "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.45,
-        "stake": 29.26
+        "bookmaker": "Smarkets",
+        "odd": 3.65,
+        "stake": 27.44
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 3.9,
-        "stake": 25.88
+        "bookmaker": "Matchbook",
+        "odd": 3.5,
+        "stake": 28.62
       }
     },
-    "profit_percent": 0.94,
+    "profit_percent": 0.17,
     "is_surebet": true
   },
   {
@@ -83,7 +83,7 @@
         "stake": 27.34
       },
       "2": {
-        "bookmaker": "Betfair",
+        "bookmaker": "Matchbook",
         "odd": 3.6,
         "stake": 27.72
       }
@@ -92,26 +92,26 @@
     "is_surebet": false
   },
   {
-    "match": "Tijuana - FC Juárez",
-    "event_type": "Liga MX",
+    "match": "Ceará - Internacional",
+    "event_type": "Brazil Série A",
     "outcomes": {
       "1": {
         "bookmaker": "Matchbook",
-        "odd": 2.28,
-        "stake": 43.75
+        "odd": 2.2,
+        "stake": 45.27
       },
       "N": {
-        "bookmaker": "Smarkets",
-        "odd": 3.65,
-        "stake": 27.33
+        "bookmaker": "Matchbook",
+        "odd": 3.45,
+        "stake": 28.87
       },
       "2": {
-        "bookmaker": "Coolbet",
-        "odd": 3.45,
-        "stake": 28.92
+        "bookmaker": "Smarkets",
+        "odd": 3.85,
+        "stake": 25.87
       }
     },
-    "profit_percent": -0.24,
+    "profit_percent": -0.41,
     "is_surebet": false
   },
   {
@@ -135,29 +135,6 @@
       }
     },
     "profit_percent": -0.7,
-    "is_surebet": false
-  },
-  {
-    "match": "Hertha Berlin - Eintracht Braunschweig",
-    "event_type": "Bundesliga 2 - Germany",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 1.63,
-        "stake": 60.9
-      },
-      "N": {
-        "bookmaker": "Winamax (DE)",
-        "odd": 4.4,
-        "stake": 22.56
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 6.0,
-        "stake": 16.54
-      }
-    },
-    "profit_percent": -0.74,
     "is_surebet": false
   },
   {
@@ -204,6 +181,29 @@
       }
     },
     "profit_percent": -0.96,
+    "is_surebet": false
+  },
+  {
+    "match": "Hertha Berlin - Eintracht Braunschweig",
+    "event_type": "Bundesliga 2 - Germany",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 1.63,
+        "stake": 60.73
+      },
+      "N": {
+        "bookmaker": "Winamax (DE)",
+        "odd": 4.4,
+        "stake": 22.5
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 5.9,
+        "stake": 16.78
+      }
+    },
+    "profit_percent": -1.02,
     "is_surebet": false
   },
   {
