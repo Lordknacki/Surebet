@@ -1,11 +1,301 @@
 [
   {
-    "match": "PSG - Marseille",
+    "match": "Juventude - Cruzeiro",
+    "event_type": "Brazil Série A",
     "outcomes": {
-      "1": { "bookmaker": "Winamax", "odd": 2.10, "stake": 47.62 },
-      "N": { "bookmaker": "Betclic", "odd": 3.80, "stake": 26.32 },
-      "2": { "bookmaker": "Unibet", "odd": 4.20, "stake": 23.81 }
+      "1": {
+        "bookmaker": "Unibet (NL)",
+        "odd": 5.4,
+        "stake": 31.46
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 3.5,
+        "stake": 48.55
+      },
+      "2": {
+        "bookmaker": "DraftKings",
+        "odd": 8.5,
+        "stake": 19.99
+      }
     },
-    "profit_percent": 2.0
+    "profit_percent": 69.91,
+    "is_surebet": true
+  },
+  {
+    "match": "Peterborough United - Stockport County FC",
+    "event_type": "League 1",
+    "outcomes": {
+      "1": {
+        "bookmaker": "SportsBet",
+        "odd": 2.87,
+        "stake": 45.68
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 4.3,
+        "stake": 30.49
+      },
+      "2": {
+        "bookmaker": "Unibet (UK)",
+        "odd": 5.5,
+        "stake": 23.84
+      }
+    },
+    "profit_percent": 31.09,
+    "is_surebet": true
+  },
+  {
+    "match": "Chelsea - Barcelona",
+    "event_type": "UEFA Champions League Women",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betsson",
+        "odd": 6.4,
+        "stake": 17.42
+      },
+      "N": {
+        "bookmaker": "Pinnacle",
+        "odd": 6.28,
+        "stake": 17.75
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 1.72,
+        "stake": 64.82
+      }
+    },
+    "profit_percent": 11.5,
+    "is_surebet": true
+  },
+  {
+    "match": "Leuven - AS Roma",
+    "event_type": "UEFA Champions League Women",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 5.4,
+        "stake": 19.24
+      },
+      "N": {
+        "bookmaker": "Pinnacle",
+        "odd": 4.51,
+        "stake": 23.04
+      },
+      "2": {
+        "bookmaker": "Bet Victor",
+        "odd": 1.8,
+        "stake": 57.72
+      }
+    },
+    "profit_percent": 3.9,
+    "is_surebet": true
+  },
+  {
+    "match": "Paris Saint Germain - Bayern Munich",
+    "event_type": "UEFA Champions League Women",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 4.4,
+        "stake": 23.44
+      },
+      "N": {
+        "bookmaker": "Pinnacle",
+        "odd": 4.31,
+        "stake": 23.93
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 1.96,
+        "stake": 52.63
+      }
+    },
+    "profit_percent": 3.15,
+    "is_surebet": true
+  },
+  {
+    "match": "Ceará - Internacional",
+    "event_type": "Brazil Série A",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Bovada",
+        "odd": 2.25,
+        "stake": 44.71
+      },
+      "N": {
+        "bookmaker": "Matchbook",
+        "odd": 3.45,
+        "stake": 29.16
+      },
+      "2": {
+        "bookmaker": "Smarkets",
+        "odd": 3.85,
+        "stake": 26.13
+      }
+    },
+    "profit_percent": 0.6,
+    "is_surebet": true
+  },
+  {
+    "match": "VfL Bochum - Dynamo Dresden",
+    "event_type": "Bundesliga 2 - Germany",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 1.92,
+        "stake": 51.94
+      },
+      "N": {
+        "bookmaker": "Matchbook",
+        "odd": 4.1,
+        "stake": 24.32
+      },
+      "2": {
+        "bookmaker": "Coolbet",
+        "odd": 4.2,
+        "stake": 23.74
+      }
+    },
+    "profit_percent": -0.28,
+    "is_surebet": false
+  },
+  {
+    "match": "Bahia - Fortaleza",
+    "event_type": "Brazil Série A",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 1.58,
+        "stake": 63.07
+      },
+      "N": {
+        "bookmaker": "Bovada",
+        "odd": 4.55,
+        "stake": 21.9
+      },
+      "2": {
+        "bookmaker": "Coolbet",
+        "odd": 6.63,
+        "stake": 15.03
+      }
+    },
+    "profit_percent": -0.35,
+    "is_surebet": false
+  },
+  {
+    "match": "Corinthians - Sao Paulo",
+    "event_type": "Brazil Série A",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 2.56,
+        "stake": 38.84
+      },
+      "N": {
+        "bookmaker": "Matchbook",
+        "odd": 2.9,
+        "stake": 34.29
+      },
+      "2": {
+        "bookmaker": "Smarkets",
+        "odd": 3.7,
+        "stake": 26.87
+      }
+    },
+    "profit_percent": -0.57,
+    "is_surebet": false
+  },
+  {
+    "match": "Adelaide United - Melbourne City",
+    "event_type": "A-League",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 2.98,
+        "stake": 33.27
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 3.85,
+        "stake": 25.75
+      },
+      "2": {
+        "bookmaker": "Matchbook",
+        "odd": 2.42,
+        "stake": 40.97
+      }
+    },
+    "profit_percent": -0.85,
+    "is_surebet": false
+  },
+  {
+    "match": "Pachuca - Pumas",
+    "event_type": "Liga MX",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 2.22,
+        "stake": 44.6
+      },
+      "N": {
+        "bookmaker": "Unibet",
+        "odd": 3.55,
+        "stake": 27.89
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 3.6,
+        "stake": 27.5
+      }
+    },
+    "profit_percent": -0.98,
+    "is_surebet": false
+  },
+  {
+    "match": "Tijuana - FC Juárez",
+    "event_type": "Liga MX",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 2.24,
+        "stake": 44.2
+      },
+      "N": {
+        "bookmaker": "Unibet",
+        "odd": 3.6,
+        "stake": 27.5
+      },
+      "2": {
+        "bookmaker": "LowVig.ag",
+        "odd": 3.5,
+        "stake": 28.29
+      }
+    },
+    "profit_percent": -0.98,
+    "is_surebet": false
+  },
+  {
+    "match": "Nieciecza - Arka Gdynia",
+    "event_type": "Ekstraklasa - Poland",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Grosvenor",
+        "odd": 2.12,
+        "stake": 45.6
+      },
+      "N": {
+        "bookmaker": "DraftKings",
+        "odd": 3.5,
+        "stake": 27.62
+      },
+      "2": {
+        "bookmaker": "Pinnacle",
+        "odd": 3.61,
+        "stake": 26.78
+      }
+    },
+    "profit_percent": -3.33,
+    "is_surebet": false
   }
 ]
