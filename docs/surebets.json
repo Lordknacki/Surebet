@@ -4,22 +4,22 @@
     "event_type": "Brazil Série A",
     "outcomes": {
       "1": {
-        "bookmaker": "Codere (IT)",
-        "odd": 3.65,
-        "stake": 49.7
+        "bookmaker": "Unibet (NL)",
+        "odd": 8.5,
+        "stake": 35.02
       },
       "N": {
-        "bookmaker": "Matchbook",
-        "odd": 4.4,
-        "stake": 41.23
+        "bookmaker": "DraftKings",
+        "odd": 5.25,
+        "stake": 56.71
       },
       "2": {
-        "bookmaker": "Coolbet",
-        "odd": 20.0,
-        "stake": 9.07
+        "bookmaker": "DraftKings",
+        "odd": 36.0,
+        "stake": 8.27
       }
     },
-    "profit_percent": 81.41,
+    "profit_percent": 197.71,
     "is_surebet": true
   },
   {
@@ -29,20 +29,20 @@
       "1": {
         "bookmaker": "Codere (IT)",
         "odd": 2.65,
-        "stake": 50.13
+        "stake": 74.19
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 4.3,
-        "stake": 30.89
+        "bookmaker": "Bet Victor",
+        "odd": 10.0,
+        "stake": 19.66
       },
       "2": {
-        "bookmaker": "Unibet (UK)",
-        "odd": 7.0,
-        "stake": 18.98
+        "bookmaker": "Betfair",
+        "odd": 32.0,
+        "stake": 6.14
       }
     },
-    "profit_percent": 32.84,
+    "profit_percent": 96.61,
     "is_surebet": true
   },
   {
@@ -50,22 +50,22 @@
     "event_type": "UEFA Champions League Women",
     "outcomes": {
       "1": {
-        "bookmaker": "Coolbet",
-        "odd": 25.0,
-        "stake": 5.24
+        "bookmaker": "Unibet (UK)",
+        "odd": 29.0,
+        "stake": 4.74
       },
       "N": {
         "bookmaker": "Betfair",
-        "odd": 8.8,
-        "stake": 14.89
+        "odd": 9.0,
+        "stake": 15.28
       },
       "2": {
         "bookmaker": "Bovada",
-        "odd": 1.64,
-        "stake": 79.87
+        "odd": 1.72,
+        "stake": 79.97
       }
     },
-    "profit_percent": 30.99,
+    "profit_percent": 37.55,
     "is_surebet": true
   },
   {
@@ -73,22 +73,22 @@
     "event_type": "UEFA Champions League Women",
     "outcomes": {
       "1": {
-        "bookmaker": "DraftKings",
-        "odd": 12.0,
-        "stake": 10.91
+        "bookmaker": "Smarkets",
+        "odd": 16.0,
+        "stake": 8.47
       },
       "N": {
-        "bookmaker": "DraftKings",
-        "odd": 5.25,
-        "stake": 24.93
+        "bookmaker": "Unibet (NL)",
+        "odd": 5.4,
+        "stake": 25.1
       },
       "2": {
         "bookmaker": "Pinnacle",
         "odd": 2.04,
-        "stake": 64.16
+        "stake": 66.43
       }
     },
-    "profit_percent": 30.89,
+    "profit_percent": 35.52,
     "is_surebet": true
   },
   {
@@ -98,67 +98,21 @@
       "1": {
         "bookmaker": "Bet Victor",
         "odd": 5.25,
-        "stake": 20.35
+        "stake": 21.26
       },
       "N": {
-        "bookmaker": "Casumo",
-        "odd": 4.25,
-        "stake": 25.14
+        "bookmaker": "Bovada",
+        "odd": 4.75,
+        "stake": 23.49
       },
       "2": {
         "bookmaker": "Betfair",
-        "odd": 1.96,
-        "stake": 54.51
+        "odd": 2.02,
+        "stake": 55.25
       }
     },
-    "profit_percent": 6.84,
+    "profit_percent": 11.6,
     "is_surebet": true
-  },
-  {
-    "match": "Corinthians - Sao Paulo",
-    "event_type": "Brazil Série A",
-    "outcomes": {
-      "1": {
-        "bookmaker": "1xBet",
-        "odd": 2.56,
-        "stake": 38.98
-      },
-      "N": {
-        "bookmaker": "Matchbook",
-        "odd": 2.9,
-        "stake": 34.41
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.75,
-        "stake": 26.61
-      }
-    },
-    "profit_percent": -0.21,
-    "is_surebet": false
-  },
-  {
-    "match": "Pachuca - Pumas",
-    "event_type": "Liga MX",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Matchbook",
-        "odd": 2.24,
-        "stake": 44.55
-      },
-      "N": {
-        "bookmaker": "Unibet",
-        "odd": 3.55,
-        "stake": 28.11
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.65,
-        "stake": 27.34
-      }
-    },
-    "profit_percent": -0.21,
-    "is_surebet": false
   },
   {
     "match": "Tijuana - FC Juárez",
@@ -166,22 +120,68 @@
     "outcomes": {
       "1": {
         "bookmaker": "Matchbook",
-        "odd": 2.26,
-        "stake": 44.15
+        "odd": 2.3,
+        "stake": 43.72
       },
       "N": {
         "bookmaker": "Smarkets",
         "odd": 3.65,
-        "stake": 27.34
+        "stake": 27.55
       },
       "2": {
         "bookmaker": "LowVig.ag",
         "odd": 3.5,
-        "stake": 28.51
+        "stake": 28.73
       }
     },
-    "profit_percent": -0.22,
-    "is_surebet": false
+    "profit_percent": 0.56,
+    "is_surebet": true
+  },
+  {
+    "match": "Ceará - Internacional",
+    "event_type": "Brazil Série A",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Bovada",
+        "odd": 2.24,
+        "stake": 44.82
+      },
+      "N": {
+        "bookmaker": "Matchbook",
+        "odd": 3.45,
+        "stake": 29.1
+      },
+      "2": {
+        "bookmaker": "Smarkets",
+        "odd": 3.85,
+        "stake": 26.08
+      }
+    },
+    "profit_percent": 0.4,
+    "is_surebet": true
+  },
+  {
+    "match": "Bahia - Fortaleza",
+    "event_type": "Brazil Série A",
+    "outcomes": {
+      "1": {
+        "bookmaker": "1xBet",
+        "odd": 1.57,
+        "stake": 63.9
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 4.7,
+        "stake": 21.35
+      },
+      "2": {
+        "bookmaker": "Matchbook",
+        "odd": 6.8,
+        "stake": 14.75
+      }
+    },
+    "profit_percent": 0.32,
+    "is_surebet": true
   },
   {
     "match": "VfL Bochum - Dynamo Dresden",
@@ -207,49 +207,26 @@
     "is_surebet": false
   },
   {
-    "match": "Ceará - Internacional",
+    "match": "Corinthians - Sao Paulo",
     "event_type": "Brazil Série A",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
-        "odd": 2.22,
-        "stake": 44.85
+        "bookmaker": "1xBet",
+        "odd": 2.55,
+        "stake": 39.07
       },
       "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.4,
-        "stake": 29.29
-      },
-      "2": {
-        "bookmaker": "Smarkets",
-        "odd": 3.85,
-        "stake": 25.86
-      }
-    },
-    "profit_percent": -0.43,
-    "is_surebet": false
-  },
-  {
-    "match": "Bahia - Fortaleza",
-    "event_type": "Brazil Série A",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Matchbook",
-        "odd": 1.55,
-        "stake": 64.2
-      },
-      "N": {
-        "bookmaker": "Matchbook",
-        "odd": 4.7,
-        "stake": 21.17
+        "bookmaker": "Betfair",
+        "odd": 2.9,
+        "stake": 34.36
       },
       "2": {
         "bookmaker": "Matchbook",
-        "odd": 6.8,
-        "stake": 14.63
+        "odd": 3.75,
+        "stake": 26.57
       }
     },
-    "profit_percent": -0.5,
+    "profit_percent": -0.36,
     "is_surebet": false
   },
   {
@@ -273,6 +250,29 @@
       }
     },
     "profit_percent": -0.85,
+    "is_surebet": false
+  },
+  {
+    "match": "Pachuca - Pumas",
+    "event_type": "Liga MX",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 2.24,
+        "stake": 44.21
+      },
+      "N": {
+        "bookmaker": "Unibet",
+        "odd": 3.55,
+        "stake": 27.9
+      },
+      "2": {
+        "bookmaker": "Coolbet",
+        "odd": 3.55,
+        "stake": 27.9
+      }
+    },
+    "profit_percent": -0.97,
     "is_surebet": false
   },
   {
