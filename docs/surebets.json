@@ -1,25 +1,25 @@
 [
   {
-    "match": "Corinthians - Sao Paulo",
+    "match": "Ceará - Internacional",
     "event_type": "Brazil Série A",
     "outcomes": {
       "1": {
-        "bookmaker": "Bovada",
-        "odd": 2.46,
-        "stake": 60.62
+        "bookmaker": "Matchbook",
+        "odd": 2.26,
+        "stake": 44.41
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 4.7,
-        "stake": 31.73
+        "bookmaker": "Matchbook",
+        "odd": 3.4,
+        "stake": 29.52
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 19.5,
-        "stake": 7.65
+        "bookmaker": "Smarkets",
+        "odd": 3.85,
+        "stake": 26.07
       }
     },
-    "profit_percent": 49.13,
+    "profit_percent": 0.37,
     "is_surebet": true
   },
   {
@@ -29,21 +29,21 @@
       "1": {
         "bookmaker": "Betfair",
         "odd": 2.22,
-        "stake": 44.95
+        "stake": 45.12
       },
       "N": {
         "bookmaker": "Unibet",
         "odd": 3.65,
-        "stake": 27.34
+        "stake": 27.44
       },
       "2": {
         "bookmaker": "Matchbook",
-        "odd": 3.6,
-        "stake": 27.72
+        "odd": 3.65,
+        "stake": 27.44
       }
     },
-    "profit_percent": -0.22,
-    "is_surebet": false
+    "profit_percent": 0.16,
+    "is_surebet": true
   },
   {
     "match": "Tijuana - FC Juárez",
@@ -92,29 +92,6 @@
     "is_surebet": false
   },
   {
-    "match": "Ceará - Internacional",
-    "event_type": "Brazil Série A",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Matchbook",
-        "odd": 2.2,
-        "stake": 45.23
-      },
-      "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.4,
-        "stake": 29.26
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.9,
-        "stake": 25.51
-      }
-    },
-    "profit_percent": -0.5,
-    "is_surebet": false
-  },
-  {
     "match": "VfL Bochum - Dynamo Dresden",
     "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
@@ -138,26 +115,49 @@
     "is_surebet": false
   },
   {
+    "match": "Corinthians - Sao Paulo",
+    "event_type": "Brazil Série A",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 1.34,
+        "stake": 74.09
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 4.8,
+        "stake": 20.68
+      },
+      "2": {
+        "bookmaker": "Matchbook",
+        "odd": 19.0,
+        "stake": 5.23
+      }
+    },
+    "profit_percent": -0.72,
+    "is_surebet": false
+  },
+  {
     "match": "Silkeborg IF - AGF Aarhus",
     "event_type": "Denmark Superliga",
     "outcomes": {
       "1": {
         "bookmaker": "Matchbook",
         "odd": 3.75,
-        "stake": 26.46
+        "stake": 26.4
       },
       "N": {
         "bookmaker": "Unibet (NL)",
         "odd": 3.95,
-        "stake": 25.12
+        "stake": 25.07
       },
       "2": {
-        "bookmaker": "DraftKings",
-        "odd": 2.05,
-        "stake": 48.41
+        "bookmaker": "Betfair",
+        "odd": 2.04,
+        "stake": 48.53
       }
     },
-    "profit_percent": -0.76,
+    "profit_percent": -0.99,
     "is_surebet": false
   },
   {
@@ -165,22 +165,22 @@
     "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
-        "odd": 1.63,
-        "stake": 60.73
+        "bookmaker": "Betfair",
+        "odd": 1.62,
+        "stake": 60.87
       },
       "N": {
         "bookmaker": "Winamax (DE)",
         "odd": 4.4,
-        "stake": 22.5
+        "stake": 22.41
       },
       "2": {
         "bookmaker": "Betfair",
         "odd": 5.9,
-        "stake": 16.78
+        "stake": 16.71
       }
     },
-    "profit_percent": -1.02,
+    "profit_percent": -1.39,
     "is_surebet": false
   },
   {
