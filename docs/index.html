@@ -1,4 +1,3 @@
-# docs/index.html
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -6,11 +5,42 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Surebets Football</title>
   <style>
-    body { font-family: Arial, sans-serif; background: #f4f4f4; padding: 20px; }
-    table { border-collapse: collapse; width: 100%; background: white; }
-    th, td { border: 1px solid #ccc; padding: 10px; text-align: center; }
-    th { background-color: #eee; }
-    .profit { font-weight: bold; color: green; }
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      padding: 20px;
+    }
+    h1 {
+      margin-bottom: 20px;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      background: white;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: center;
+    }
+    th {
+      background-color: #eee;
+    }
+    .profit {
+      font-weight: bold;
+    }
+    .profit.positive {
+      color: green;
+    }
+    .profit.negative {
+      color: #b00000;
+    }
+    tr.surebet {
+      background-color: #e9ffe9;
+    }
+    td small {
+      color: #555;
+    }
   </style>
 </head>
 <body>
@@ -18,6 +48,7 @@
   <table id="surebets">
     <thead>
       <tr>
+        <th>Type d'évènement</th>
         <th>Match</th>
         <th>1</th>
         <th>N</th>
@@ -30,22 +61,42 @@
 
   <script>
     async function loadSurebets() {
-      const res = await fetch('surebets.json');
-      const data = await res.json();
-      const tbody = document.querySelector('#surebets tbody');
-      tbody.innerHTML = '';
-      data.forEach(surebet => {
-        const row = document.createElement('tr');
-        row.innerHTML = `
-          <td>${surebet.match}</td>
-          <td>${surebet.outcomes["1"].odd} (${surebet.outcomes["1"].bookmaker})<br><small>${surebet.outcomes["1"].stake} €</small></td>
-          <td>${surebet.outcomes["N"].odd} (${surebet.outcomes["N"].bookmaker})<br><small>${surebet.outcomes["N"].stake} €</small></td>
-          <td>${surebet.outcomes["2"].odd} (${surebet.outcomes["2"].bookmaker})<br><small>${surebet.outcomes["2"].stake} €</small></td>
-          <td class="profit">+${surebet.profit_percent}%</td>
-        `;
-        tbody.appendChild(row);
-      });
+      try {
+        const res = await fetch('surebets.json');
+        console.log('Status fetch surebets.json :', res.status);
+        const data = await res.json();
+        console.log('JSON reçu :', data);
+
+        const tbody = document.querySelector('#surebets tbody');
+        tbody.innerHTML = '';
+
+        data.forEach(item => {
+          const row = document.createElement('tr');
+
+          if (item.is_surebet) {
+            row.classList.add('surebet');
+          }
+
+          const profit = item.profit_percent || 0;
+          const profitStr =
+            (profit > 0 ? '+' : '') + profit.toFixed(2) + '%';
+          const profitClass = profit > 0 ? 'profit positive' : 'profit negative';
+
+          row.innerHTML = `
+            <td>${item.event_type || ''}</td>
+            <td>${item.match}</td>
+            <td>${item.outcomes["1"].odd} (${item.outcomes["1"].bookmaker})<br><small>${item.outcomes["1"].stake} €</small></td>
+            <td>${item.outcomes["N"].odd} (${item.outcomes["N"].bookmaker})<br><small>${item.outcomes["N"].stake} €</small></td>
+            <td>${item.outcomes["2"].odd} (${item.outcomes["2"].bookmaker})<br><small>${item.outcomes["2"].stake} €</small></td>
+            <td class="${profitClass}">${profitStr}</td>
+          `;
+          tbody.appendChild(row);
+        });
+      } catch (err) {
+        console.error('Erreur lors du chargement des surebets :', err);
+      }
     }
+
     loadSurebets();
   </script>
 </body>
