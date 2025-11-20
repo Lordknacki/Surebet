@@ -1,25 +1,48 @@
 [
   {
+    "match": "Bahia - Fortaleza",
+    "event_type": "Brazil Série A",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 8.0,
+        "stake": 25.21
+      },
+      "N": {
+        "bookmaker": "Matchbook",
+        "odd": 4.9,
+        "stake": 41.17
+      },
+      "2": {
+        "bookmaker": "Bovada",
+        "odd": 6.0,
+        "stake": 33.62
+      }
+    },
+    "profit_percent": 101.72,
+    "is_surebet": true
+  },
+  {
     "match": "Leuven - AS Roma",
     "event_type": "UEFA Champions League Women",
     "outcomes": {
       "1": {
-        "bookmaker": "Bet Victor",
-        "odd": 29.0,
-        "stake": 6.33
+        "bookmaker": "Coolbet",
+        "odd": 9.5,
+        "stake": 11.64
       },
       "N": {
-        "bookmaker": "Bet Victor",
-        "odd": 7.5,
-        "stake": 24.46
+        "bookmaker": "Pinnacle",
+        "odd": 1.89,
+        "stake": 58.49
       },
       "2": {
-        "bookmaker": "LiveScore Bet",
-        "odd": 2.65,
-        "stake": 69.22
+        "bookmaker": "Casumo",
+        "odd": 3.7,
+        "stake": 29.88
       }
     },
-    "profit_percent": 83.43,
+    "profit_percent": 10.54,
     "is_surebet": true
   },
   {
@@ -27,68 +50,22 @@
     "event_type": "UEFA Champions League Women",
     "outcomes": {
       "1": {
-        "bookmaker": "Bovada",
-        "odd": 5.5,
-        "stake": 26.4
-      },
-      "N": {
-        "bookmaker": "Bovada",
+        "bookmaker": "Unibet (UK)",
         "odd": 6.0,
-        "stake": 24.2
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 2.94,
-        "stake": 49.39
-      }
-    },
-    "profit_percent": 45.22,
-    "is_surebet": true
-  },
-  {
-    "match": "Bahia - Fortaleza",
-    "event_type": "Brazil Série A",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 2.92,
-        "stake": 47.24
+        "stake": 18.35
       },
       "N": {
-        "bookmaker": "Codere (IT)",
-        "odd": 4.4,
-        "stake": 31.35
-      },
-      "2": {
         "bookmaker": "Pinnacle",
-        "odd": 6.44,
-        "stake": 21.42
-      }
-    },
-    "profit_percent": 37.93,
-    "is_surebet": true
-  },
-  {
-    "match": "Paris Saint Germain - Bayern Munich",
-    "event_type": "UEFA Champions League Women",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Smarkets",
-        "odd": 25.0,
-        "stake": 4.78
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 4.8,
-        "stake": 24.9
+        "odd": 2.01,
+        "stake": 54.79
       },
       "2": {
-        "bookmaker": "Bovada",
-        "odd": 1.7,
-        "stake": 70.32
+        "bookmaker": "Betfair",
+        "odd": 4.1,
+        "stake": 26.86
       }
     },
-    "profit_percent": 19.54,
+    "profit_percent": 10.12,
     "is_surebet": true
   },
   {
@@ -96,45 +73,68 @@
     "event_type": "League 1",
     "outcomes": {
       "1": {
-        "bookmaker": "Pinnacle",
-        "odd": 1.11,
-        "stake": 99.41
+        "bookmaker": "Betfair",
+        "odd": 1.06,
+        "stake": 99.65
       },
       "N": {
-        "bookmaker": "Sky Bet",
-        "odd": 301.0,
-        "stake": 0.37
-      },
-      "2": {
         "bookmaker": "Paddy Power",
         "odd": 501.0,
-        "stake": 0.22
+        "stake": 0.21
+      },
+      "2": {
+        "bookmaker": "Coral",
+        "odd": 751.0,
+        "stake": 0.14
       }
     },
-    "profit_percent": 10.35,
+    "profit_percent": 5.63,
     "is_surebet": true
   },
   {
-    "match": "Pachuca - Pumas",
-    "event_type": "Liga MX",
+    "match": "Paris Saint Germain - Bayern Munich",
+    "event_type": "UEFA Champions League Women",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
-        "odd": 2.26,
-        "stake": 44.68
+        "bookmaker": "Coolbet",
+        "odd": 58.0,
+        "stake": 1.76
       },
       "N": {
-        "bookmaker": "Unibet",
-        "odd": 3.65,
-        "stake": 27.66
+        "bookmaker": "Betfair",
+        "odd": 6.2,
+        "stake": 16.48
       },
       "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.65,
-        "stake": 27.66
+        "bookmaker": "Bovada",
+        "odd": 1.25,
+        "stake": 81.76
       }
     },
-    "profit_percent": 0.97,
+    "profit_percent": 2.19,
+    "is_surebet": true
+  },
+  {
+    "match": "Ceará - Internacional",
+    "event_type": "Brazil Série A",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Bovada",
+        "odd": 2.28,
+        "stake": 44.38
+      },
+      "N": {
+        "bookmaker": "Matchbook",
+        "odd": 3.45,
+        "stake": 29.33
+      },
+      "2": {
+        "bookmaker": "Smarkets",
+        "odd": 3.85,
+        "stake": 26.28
+      }
+    },
+    "profit_percent": 1.19,
     "is_surebet": true
   },
   {
@@ -161,6 +161,29 @@
     "is_surebet": true
   },
   {
+    "match": "Pachuca - Pumas",
+    "event_type": "Liga MX",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 2.24,
+        "stake": 44.72
+      },
+      "N": {
+        "bookmaker": "Unibet",
+        "odd": 3.65,
+        "stake": 27.45
+      },
+      "2": {
+        "bookmaker": "Matchbook",
+        "odd": 3.6,
+        "stake": 27.83
+      }
+    },
+    "profit_percent": 0.18,
+    "is_surebet": true
+  },
+  {
     "match": "Tijuana - FC Juárez",
     "event_type": "Liga MX",
     "outcomes": {
@@ -182,29 +205,6 @@
     },
     "profit_percent": 0.17,
     "is_surebet": true
-  },
-  {
-    "match": "Ceará - Internacional",
-    "event_type": "Brazil Série A",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Matchbook",
-        "odd": 2.22,
-        "stake": 45.04
-      },
-      "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.45,
-        "stake": 28.98
-      },
-      "2": {
-        "bookmaker": "Smarkets",
-        "odd": 3.85,
-        "stake": 25.97
-      }
-    },
-    "profit_percent": -0.0,
-    "is_surebet": false
   },
   {
     "match": "Adelaide United - Melbourne City",
@@ -234,7 +234,7 @@
     "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Betfair",
         "odd": 1.93,
         "stake": 51.23
       },
@@ -267,7 +267,7 @@
         "stake": 21.96
       },
       "2": {
-        "bookmaker": "Betfair",
+        "bookmaker": "Matchbook",
         "odd": 5.8,
         "stake": 17.04
       }
