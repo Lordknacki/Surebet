@@ -4,45 +4,22 @@
     "event_type": "UEFA Champions League Women",
     "outcomes": {
       "1": {
-        "bookmaker": "Unibet (UK)",
-        "odd": 34.0,
-        "stake": 3.95
+        "bookmaker": "Bet Victor",
+        "odd": 29.0,
+        "stake": 6.33
       },
       "N": {
         "bookmaker": "Bet Victor",
         "odd": 7.5,
-        "stake": 17.92
+        "stake": 24.46
       },
       "2": {
-        "bookmaker": "Bovada",
-        "odd": 1.72,
-        "stake": 78.13
+        "bookmaker": "LiveScore Bet",
+        "odd": 2.65,
+        "stake": 69.22
       }
     },
-    "profit_percent": 34.38,
-    "is_surebet": true
-  },
-  {
-    "match": "Paris Saint Germain - Bayern Munich",
-    "event_type": "UEFA Champions League Women",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 20.0,
-        "stake": 6.35
-      },
-      "N": {
-        "bookmaker": "Coolbet",
-        "odd": 5.25,
-        "stake": 24.21
-      },
-      "2": {
-        "bookmaker": "Bovada",
-        "odd": 1.83,
-        "stake": 69.44
-      }
-    },
-    "profit_percent": 27.08,
+    "profit_percent": 83.43,
     "is_surebet": true
   },
   {
@@ -50,22 +27,22 @@
     "event_type": "UEFA Champions League Women",
     "outcomes": {
       "1": {
-        "bookmaker": "Betfair",
-        "odd": 5.0,
-        "stake": 23.66
+        "bookmaker": "Bovada",
+        "odd": 5.5,
+        "stake": 26.4
       },
       "N": {
         "bookmaker": "Bovada",
-        "odd": 4.75,
-        "stake": 24.91
+        "odd": 6.0,
+        "stake": 24.2
       },
       "2": {
-        "bookmaker": "DraftKings",
-        "odd": 2.3,
-        "stake": 51.43
+        "bookmaker": "Betfair",
+        "odd": 2.94,
+        "stake": 49.39
       }
     },
-    "profit_percent": 18.3,
+    "profit_percent": 45.22,
     "is_surebet": true
   },
   {
@@ -73,68 +50,45 @@
     "event_type": "Brazil Série A",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
-        "odd": 1.64,
-        "stake": 62.12
-      },
-      "N": {
-        "bookmaker": "Bovada",
-        "odd": 4.45,
-        "stake": 22.89
-      },
-      "2": {
         "bookmaker": "Betfair",
-        "odd": 6.8,
-        "stake": 14.98
+        "odd": 2.92,
+        "stake": 47.24
+      },
+      "N": {
+        "bookmaker": "Codere (IT)",
+        "odd": 4.4,
+        "stake": 31.35
+      },
+      "2": {
+        "bookmaker": "Pinnacle",
+        "odd": 6.44,
+        "stake": 21.42
       }
     },
-    "profit_percent": 1.88,
+    "profit_percent": 37.93,
     "is_surebet": true
   },
   {
-    "match": "Pachuca - Pumas",
-    "event_type": "Liga MX",
+    "match": "Paris Saint Germain - Bayern Munich",
+    "event_type": "UEFA Champions League Women",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
-        "odd": 2.24,
-        "stake": 44.9
-      },
-      "N": {
-        "bookmaker": "Unibet",
-        "odd": 3.65,
-        "stake": 27.55
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.65,
-        "stake": 27.55
-      }
-    },
-    "profit_percent": 0.57,
-    "is_surebet": true
-  },
-  {
-    "match": "Corinthians - Sao Paulo",
-    "event_type": "Brazil Série A",
-    "outcomes": {
-      "1": {
-        "bookmaker": "BetOnline.ag",
-        "odd": 2.62,
-        "stake": 38.34
-      },
-      "N": {
-        "bookmaker": "Matchbook",
-        "odd": 2.88,
-        "stake": 34.88
-      },
-      "2": {
         "bookmaker": "Smarkets",
-        "odd": 3.75,
-        "stake": 26.79
+        "odd": 25.0,
+        "stake": 4.78
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 4.8,
+        "stake": 24.9
+      },
+      "2": {
+        "bookmaker": "Bovada",
+        "odd": 1.7,
+        "stake": 70.32
       }
     },
-    "profit_percent": 0.45,
+    "profit_percent": 19.54,
     "is_surebet": true
   },
   {
@@ -144,20 +98,66 @@
       "1": {
         "bookmaker": "Pinnacle",
         "odd": 1.11,
-        "stake": 90.45
+        "stake": 99.41
       },
       "N": {
         "bookmaker": "Sky Bet",
-        "odd": 13.0,
-        "stake": 7.72
+        "odd": 301.0,
+        "stake": 0.37
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 55.0,
-        "stake": 1.83
+        "bookmaker": "Paddy Power",
+        "odd": 501.0,
+        "stake": 0.22
       }
     },
-    "profit_percent": 0.4,
+    "profit_percent": 10.35,
+    "is_surebet": true
+  },
+  {
+    "match": "Pachuca - Pumas",
+    "event_type": "Liga MX",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 2.26,
+        "stake": 44.68
+      },
+      "N": {
+        "bookmaker": "Unibet",
+        "odd": 3.65,
+        "stake": 27.66
+      },
+      "2": {
+        "bookmaker": "Matchbook",
+        "odd": 3.65,
+        "stake": 27.66
+      }
+    },
+    "profit_percent": 0.97,
+    "is_surebet": true
+  },
+  {
+    "match": "Corinthians - Sao Paulo",
+    "event_type": "Brazil Série A",
+    "outcomes": {
+      "1": {
+        "bookmaker": "BetOnline.ag",
+        "odd": 2.62,
+        "stake": 38.33
+      },
+      "N": {
+        "bookmaker": "BetOnline.ag",
+        "odd": 2.85,
+        "stake": 35.24
+      },
+      "2": {
+        "bookmaker": "Matchbook",
+        "odd": 3.8,
+        "stake": 26.43
+      }
+    },
+    "profit_percent": 0.43,
     "is_surebet": true
   },
   {
@@ -236,20 +236,20 @@
       "1": {
         "bookmaker": "Matchbook",
         "odd": 1.93,
-        "stake": 51.29
+        "stake": 51.23
       },
       "N": {
         "bookmaker": "Pinnacle",
-        "odd": 4.03,
-        "stake": 24.56
+        "odd": 4.01,
+        "stake": 24.66
       },
       "2": {
         "bookmaker": "Betfair",
         "odd": 4.1,
-        "stake": 24.14
+        "stake": 24.12
       }
     },
-    "profit_percent": -1.01,
+    "profit_percent": -1.13,
     "is_surebet": false
   },
   {
@@ -282,20 +282,20 @@
       "1": {
         "bookmaker": "Grosvenor",
         "odd": 2.12,
-        "stake": 45.73
+        "stake": 45.6
       },
       "N": {
         "bookmaker": "DraftKings",
         "odd": 3.5,
-        "stake": 27.7
+        "stake": 27.62
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 3.65,
-        "stake": 26.56
+        "bookmaker": "Pinnacle",
+        "odd": 3.61,
+        "stake": 26.78
       }
     },
-    "profit_percent": -3.04,
+    "profit_percent": -3.33,
     "is_surebet": false
   }
 ]
