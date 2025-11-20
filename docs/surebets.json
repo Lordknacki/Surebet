@@ -4,22 +4,22 @@
     "event_type": "Brazil Série A",
     "outcomes": {
       "1": {
-        "bookmaker": "Casumo",
-        "odd": 3.65,
-        "stake": 51.14
+        "bookmaker": "Tipico",
+        "odd": 4.0,
+        "stake": 46.12
       },
       "N": {
-        "bookmaker": "Bet Victor",
-        "odd": 4.75,
-        "stake": 39.29
+        "bookmaker": "Pinnacle",
+        "odd": 4.29,
+        "stake": 43.0
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 19.5,
-        "stake": 9.57
+        "bookmaker": "Pinnacle",
+        "odd": 16.96,
+        "stake": 10.88
       }
     },
-    "profit_percent": 86.64,
+    "profit_percent": 84.48,
     "is_surebet": true
   },
   {
@@ -28,21 +28,21 @@
     "outcomes": {
       "1": {
         "bookmaker": "Matchbook",
-        "odd": 2.28,
-        "stake": 44.0
+        "odd": 2.3,
+        "stake": 43.78
       },
       "N": {
         "bookmaker": "Winamax (DE)",
         "odd": 3.35,
-        "stake": 29.95
+        "stake": 30.06
       },
       "2": {
         "bookmaker": "Smarkets",
         "odd": 3.85,
-        "stake": 26.06
+        "stake": 26.16
       }
     },
-    "profit_percent": 0.32,
+    "profit_percent": 0.7,
     "is_surebet": true
   },
   {
@@ -138,29 +138,6 @@
     "is_surebet": false
   },
   {
-    "match": "Silkeborg IF - AGF Aarhus",
-    "event_type": "Denmark Superliga",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Matchbook",
-        "odd": 3.75,
-        "stake": 26.4
-      },
-      "N": {
-        "bookmaker": "Unibet (NL)",
-        "odd": 3.95,
-        "stake": 25.07
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 2.04,
-        "stake": 48.53
-      }
-    },
-    "profit_percent": -0.99,
-    "is_surebet": false
-  },
-  {
     "match": "Hertha Berlin - Eintracht Braunschweig",
     "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
@@ -181,6 +158,29 @@
       }
     },
     "profit_percent": -1.11,
+    "is_surebet": false
+  },
+  {
+    "match": "Silkeborg IF - AGF Aarhus",
+    "event_type": "Denmark Superliga",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 3.75,
+        "stake": 26.23
+      },
+      "N": {
+        "bookmaker": "BetRivers",
+        "odd": 3.85,
+        "stake": 25.55
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 2.04,
+        "stake": 48.22
+      }
+    },
+    "profit_percent": -1.63,
     "is_surebet": false
   },
   {
