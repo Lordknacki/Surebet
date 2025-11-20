@@ -1,25 +1,48 @@
 [
   {
+    "match": "Corinthians - Sao Paulo",
+    "event_type": "Brazil Série A",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Casumo",
+        "odd": 3.65,
+        "stake": 51.14
+      },
+      "N": {
+        "bookmaker": "Bet Victor",
+        "odd": 4.75,
+        "stake": 39.29
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 19.5,
+        "stake": 9.57
+      }
+    },
+    "profit_percent": 86.64,
+    "is_surebet": true
+  },
+  {
     "match": "Ceará - Internacional",
     "event_type": "Brazil Série A",
     "outcomes": {
       "1": {
         "bookmaker": "Matchbook",
-        "odd": 2.26,
-        "stake": 44.41
+        "odd": 2.28,
+        "stake": 44.0
       },
       "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.4,
-        "stake": 29.52
+        "bookmaker": "Winamax (DE)",
+        "odd": 3.35,
+        "stake": 29.95
       },
       "2": {
         "bookmaker": "Smarkets",
         "odd": 3.85,
-        "stake": 26.07
+        "stake": 26.06
       }
     },
-    "profit_percent": 0.37,
+    "profit_percent": 0.32,
     "is_surebet": true
   },
   {
@@ -29,21 +52,21 @@
       "1": {
         "bookmaker": "Betfair",
         "odd": 2.22,
-        "stake": 45.12
+        "stake": 44.95
       },
       "N": {
         "bookmaker": "Unibet",
         "odd": 3.65,
-        "stake": 27.44
+        "stake": 27.34
       },
       "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.65,
-        "stake": 27.44
+        "bookmaker": "Betfair",
+        "odd": 3.6,
+        "stake": 27.72
       }
     },
-    "profit_percent": 0.16,
-    "is_surebet": true
+    "profit_percent": -0.22,
+    "is_surebet": false
   },
   {
     "match": "Tijuana - FC Juárez",
@@ -115,29 +138,6 @@
     "is_surebet": false
   },
   {
-    "match": "Corinthians - Sao Paulo",
-    "event_type": "Brazil Série A",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Matchbook",
-        "odd": 1.34,
-        "stake": 74.09
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 4.8,
-        "stake": 20.68
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 19.0,
-        "stake": 5.23
-      }
-    },
-    "profit_percent": -0.72,
-    "is_surebet": false
-  },
-  {
     "match": "Silkeborg IF - AGF Aarhus",
     "event_type": "Denmark Superliga",
     "outcomes": {
@@ -167,20 +167,20 @@
       "1": {
         "bookmaker": "Betfair",
         "odd": 1.62,
-        "stake": 60.87
+        "stake": 61.04
       },
       "N": {
         "bookmaker": "Winamax (DE)",
         "odd": 4.4,
-        "stake": 22.41
+        "stake": 22.48
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 5.9,
-        "stake": 16.71
+        "bookmaker": "Matchbook",
+        "odd": 6.0,
+        "stake": 16.48
       }
     },
-    "profit_percent": -1.39,
+    "profit_percent": -1.11,
     "is_surebet": false
   },
   {
