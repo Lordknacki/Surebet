@@ -1,0 +1,11 @@
+[
+  {
+    "match": "PSG - Marseille",
+    "outcomes": {
+      "1": { "bookmaker": "Winamax", "odd": 2.10, "stake": 47.62 },
+      "N": { "bookmaker": "Betclic", "odd": 3.80, "stake": 26.32 },
+      "2": { "bookmaker": "Unibet", "odd": 4.20, "stake": 23.81 }
+    },
+    "profit_percent": 2.0
+  }
+]
