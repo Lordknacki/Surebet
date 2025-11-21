@@ -4,22 +4,22 @@
     "event_type": "A-League",
     "outcomes": {
       "1": {
-        "bookmaker": "Codere (IT)",
-        "odd": 2.55,
-        "stake": 89.11
+        "bookmaker": "Betfair",
+        "odd": 1.01,
+        "stake": 99.8
       },
       "N": {
-        "bookmaker": "Unibet (NL)",
-        "odd": 23.0,
-        "stake": 9.88
+        "bookmaker": "Winamax (DE)",
+        "odd": 1000.0,
+        "stake": 0.1
       },
       "2": {
-        "bookmaker": "Casumo",
-        "odd": 226.0,
-        "stake": 1.01
+        "bookmaker": "Winamax (DE)",
+        "odd": 1000.0,
+        "stake": 0.1
       }
     },
-    "profit_percent": 127.24,
+    "profit_percent": 0.8,
     "is_surebet": true
   },
   {
@@ -40,6 +40,29 @@
         "bookmaker": "Smarkets",
         "odd": 3.95,
         "stake": 25.2
+      }
+    },
+    "profit_percent": -0.46,
+    "is_surebet": false
+  },
+  {
+    "match": "KFUM - Bodø/Glimt",
+    "event_type": "Eliteserien - Norway",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Smarkets",
+        "odd": 8.0,
+        "stake": 12.44
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 5.4,
+        "stake": 18.43
+      },
+      "2": {
+        "bookmaker": "GTbets",
+        "odd": 1.44,
+        "stake": 69.12
       }
     },
     "profit_percent": -0.46,
@@ -73,68 +96,45 @@
     "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
-        "odd": 1.67,
-        "stake": 59.48
+        "bookmaker": "Betfair",
+        "odd": 1.66,
+        "stake": 59.62
       },
       "N": {
-        "bookmaker": "Betfair",
+        "bookmaker": "Matchbook",
         "odd": 4.3,
-        "stake": 23.1
+        "stake": 23.02
+      },
+      "2": {
+        "bookmaker": "Matchbook",
+        "odd": 5.7,
+        "stake": 17.36
+      }
+    },
+    "profit_percent": -1.03,
+    "is_surebet": false
+  },
+  {
+    "match": "Silkeborg IF - AGF Aarhus",
+    "event_type": "Denmark Superliga",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Pinnacle",
+        "odd": 3.8,
+        "stake": 26.02
+      },
+      "N": {
+        "bookmaker": "Matchbook",
+        "odd": 3.95,
+        "stake": 25.03
       },
       "2": {
         "bookmaker": "Betfair",
-        "odd": 5.7,
-        "stake": 17.43
+        "odd": 2.02,
+        "stake": 48.95
       }
     },
-    "profit_percent": -0.68,
-    "is_surebet": false
-  },
-  {
-    "match": "KFUM - Bodø/Glimt",
-    "event_type": "Eliteserien - Norway",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Smarkets",
-        "odd": 8.0,
-        "stake": 12.4
-      },
-      "N": {
-        "bookmaker": "Pinnacle",
-        "odd": 5.3,
-        "stake": 18.72
-      },
-      "2": {
-        "bookmaker": "GTbets",
-        "odd": 1.44,
-        "stake": 68.88
-      }
-    },
-    "profit_percent": -0.81,
-    "is_surebet": false
-  },
-  {
-    "match": "Boulogne - Grenoble",
-    "event_type": "Ligue 2 - France",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Matchbook",
-        "odd": 2.82,
-        "stake": 35.11
-      },
-      "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.15,
-        "stake": 31.43
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 2.96,
-        "stake": 33.45
-      }
-    },
-    "profit_percent": -0.98,
+    "profit_percent": -1.12,
     "is_surebet": false
   },
   {
@@ -161,26 +161,26 @@
     "is_surebet": false
   },
   {
-    "match": "Silkeborg IF - AGF Aarhus",
-    "event_type": "Denmark Superliga",
+    "match": "Boulogne - Grenoble",
+    "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
-        "bookmaker": "Pinnacle",
-        "odd": 3.8,
-        "stake": 25.89
+        "bookmaker": "Betfair",
+        "odd": 2.78,
+        "stake": 35.41
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 3.95,
-        "stake": 24.91
+        "bookmaker": "Bet Victor",
+        "odd": 3.12,
+        "stake": 31.55
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 2.0,
-        "stake": 49.2
+        "bookmaker": "Matchbook",
+        "odd": 2.98,
+        "stake": 33.04
       }
     },
-    "profit_percent": -1.61,
+    "profit_percent": -1.55,
     "is_surebet": false
   },
   {
