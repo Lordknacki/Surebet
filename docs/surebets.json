@@ -4,45 +4,45 @@
     "event_type": "A-League",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
-        "odd": 2.9,
-        "stake": 34.44
+        "bookmaker": "Betr",
+        "odd": 2.87,
+        "stake": 34.92
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 3.9,
-        "stake": 25.61
+        "bookmaker": "Pinnacle",
+        "odd": 3.91,
+        "stake": 25.63
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 2.5,
-        "stake": 39.95
+        "bookmaker": "Matchbook",
+        "odd": 2.54,
+        "stake": 39.45
       }
     },
-    "profit_percent": -0.12,
-    "is_surebet": false
+    "profit_percent": 0.21,
+    "is_surebet": true
   },
   {
-    "match": "VfL Bochum - Dynamo Dresden",
-    "event_type": "Bundesliga 2 - Germany",
+    "match": "KFUM - Bodø/Glimt",
+    "event_type": "Eliteserien - Norway",
     "outcomes": {
       "1": {
-        "bookmaker": "Smarkets",
-        "odd": 2.0,
-        "stake": 49.84
+        "bookmaker": "Betfair",
+        "odd": 7.8,
+        "stake": 12.78
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 4.0,
-        "stake": 24.92
+        "bookmaker": "Matchbook",
+        "odd": 5.4,
+        "stake": 18.46
       },
       "2": {
-        "bookmaker": "Bovada",
-        "odd": 3.95,
-        "stake": 25.24
+        "bookmaker": "Betfair",
+        "odd": 1.45,
+        "stake": 68.76
       }
     },
-    "profit_percent": -0.32,
+    "profit_percent": -0.3,
     "is_surebet": false
   },
   {
@@ -69,26 +69,26 @@
     "is_surebet": false
   },
   {
-    "match": "KFUM - Bodø/Glimt",
-    "event_type": "Eliteserien - Norway",
+    "match": "VfL Bochum - Dynamo Dresden",
+    "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
-        "bookmaker": "Betfair",
-        "odd": 7.8,
-        "stake": 12.72
+        "bookmaker": "Smarkets",
+        "odd": 2.0,
+        "stake": 49.68
       },
       "N": {
-        "bookmaker": "Matchbook",
-        "odd": 5.4,
-        "stake": 18.37
+        "bookmaker": "Betfair",
+        "odd": 4.0,
+        "stake": 24.84
       },
       "2": {
-        "bookmaker": "GTbets",
-        "odd": 1.44,
-        "stake": 68.9
+        "bookmaker": "Matchbook",
+        "odd": 3.9,
+        "stake": 25.48
       }
     },
-    "profit_percent": -0.78,
+    "profit_percent": -0.64,
     "is_surebet": false
   },
   {
