@@ -4,30 +4,30 @@
     "event_type": "A-League",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
-        "odd": 3.1,
-        "stake": 32.18
+        "bookmaker": "Betfair",
+        "odd": 3.05,
+        "stake": 32.87
       },
       "N": {
         "bookmaker": "Coolbet",
         "odd": 3.85,
-        "stake": 25.91
+        "stake": 26.04
       },
       "2": {
         "bookmaker": "Betfair",
-        "odd": 2.38,
-        "stake": 41.91
+        "odd": 2.44,
+        "stake": 41.09
       }
     },
-    "profit_percent": -0.25,
-    "is_surebet": false
+    "profit_percent": 0.26,
+    "is_surebet": true
   },
   {
     "match": "Hertha Berlin - Eintracht Braunschweig",
     "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Betfair",
         "odd": 1.61,
         "stake": 61.82
       },
@@ -46,49 +46,49 @@
     "is_surebet": false
   },
   {
+    "match": "Silkeborg IF - AGF Aarhus",
+    "event_type": "Denmark Superliga",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 3.75,
+        "stake": 26.44
+      },
+      "N": {
+        "bookmaker": "BetRivers",
+        "odd": 3.9,
+        "stake": 25.42
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 2.06,
+        "stake": 48.13
+      }
+    },
+    "profit_percent": -0.84,
+    "is_surebet": false
+  },
+  {
     "match": "VfL Bochum - Dynamo Dresden",
     "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
         "bookmaker": "Matchbook",
         "odd": 1.99,
-        "stake": 49.97
+        "stake": 49.81
       },
       "N": {
         "bookmaker": "Betfair",
         "odd": 4.0,
-        "stake": 24.86
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.95,
-        "stake": 25.17
-      }
-    },
-    "profit_percent": -0.56,
-    "is_surebet": false
-  },
-  {
-    "match": "Silkeborg IF - AGF Aarhus",
-    "event_type": "Denmark Superliga",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Unibet (NL)",
-        "odd": 3.65,
-        "stake": 27.18
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 3.95,
-        "stake": 25.12
+        "stake": 24.78
       },
       "2": {
         "bookmaker": "Betfair",
-        "odd": 2.08,
-        "stake": 47.7
+        "odd": 3.9,
+        "stake": 25.41
       }
     },
-    "profit_percent": -0.78,
+    "profit_percent": -0.88,
     "is_surebet": false
   },
   {
@@ -115,49 +115,49 @@
     "is_surebet": false
   },
   {
+    "match": "Nieciecza - Arka Gdynia",
+    "event_type": "Ekstraklasa - Poland",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 2.16,
+        "stake": 45.6
+      },
+      "N": {
+        "bookmaker": "Matchbook",
+        "odd": 3.5,
+        "stake": 28.14
+      },
+      "2": {
+        "bookmaker": "Matchbook",
+        "odd": 3.75,
+        "stake": 26.26
+      }
+    },
+    "profit_percent": -1.51,
+    "is_surebet": false
+  },
+  {
     "match": "Annecy FC - SC Bastia",
     "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 2.52,
-        "stake": 39.06
+        "odd": 2.54,
+        "stake": 38.66
       },
       "N": {
-        "bookmaker": "Bet Victor",
-        "odd": 3.0,
-        "stake": 32.81
+        "bookmaker": "BetMGM",
+        "odd": 2.95,
+        "stake": 33.29
       },
       "2": {
         "bookmaker": "Matchbook",
         "odd": 3.5,
-        "stake": 28.12
+        "stake": 28.06
       }
     },
-    "profit_percent": -1.56,
-    "is_surebet": false
-  },
-  {
-    "match": "Nieciecza - Arka Gdynia",
-    "event_type": "Ekstraklasa - Poland",
-    "outcomes": {
-      "1": {
-        "bookmaker": "LowVig.ag",
-        "odd": 2.16,
-        "stake": 45.41
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 3.45,
-        "stake": 28.43
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.75,
-        "stake": 26.16
-      }
-    },
-    "profit_percent": -1.91,
+    "profit_percent": -1.81,
     "is_surebet": false
   },
   {
