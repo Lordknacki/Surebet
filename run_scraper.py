@@ -3,6 +3,7 @@ import json
 import os
 
 from scrapers import football_api
+from scrapers import football_api_shots
 from surebet_engine import detect_surebets
 
 
