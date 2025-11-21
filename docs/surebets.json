@@ -1,51 +1,5 @@
 [
   {
-    "match": "Boulogne - Grenoble",
-    "event_type": "Ligue 2 - France",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Bovada",
-        "odd": 2.61,
-        "stake": 38.71
-      },
-      "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.2,
-        "stake": 31.57
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.4,
-        "stake": 29.72
-      }
-    },
-    "profit_percent": 1.03,
-    "is_surebet": true
-  },
-  {
-    "match": "Hertha Berlin - Eintracht Braunschweig",
-    "event_type": "Bundesliga 2 - Germany",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 1.65,
-        "stake": 60.61
-      },
-      "N": {
-        "bookmaker": "Smarkets",
-        "odd": 4.3,
-        "stake": 23.26
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 6.2,
-        "stake": 16.13
-      }
-    },
-    "profit_percent": 0.01,
-    "is_surebet": true
-  },
-  {
     "match": "KFUM - Bodø/Glimt",
     "event_type": "Eliteserien - Norway",
     "outcomes": {
@@ -73,22 +27,45 @@
     "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
-        "bookmaker": "Betfair",
-        "odd": 2.02,
-        "stake": 49.44
+        "bookmaker": "Smarkets",
+        "odd": 2.0,
+        "stake": 49.69
       },
       "N": {
         "bookmaker": "Matchbook",
         "odd": 3.95,
-        "stake": 25.28
+        "stake": 25.16
       },
       "2": {
         "bookmaker": "Smarkets",
         "odd": 3.95,
-        "stake": 25.28
+        "stake": 25.16
       }
     },
-    "profit_percent": -0.14,
+    "profit_percent": -0.63,
+    "is_surebet": false
+  },
+  {
+    "match": "Boulogne - Grenoble",
+    "event_type": "Ligue 2 - France",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Bovada",
+        "odd": 2.52,
+        "stake": 39.37
+      },
+      "N": {
+        "bookmaker": "Matchbook",
+        "odd": 3.2,
+        "stake": 31.01
+      },
+      "2": {
+        "bookmaker": "Matchbook",
+        "odd": 3.35,
+        "stake": 29.62
+      }
+    },
+    "profit_percent": -0.78,
     "is_surebet": false
   },
   {
@@ -115,6 +92,29 @@
     "is_surebet": false
   },
   {
+    "match": "Annecy FC - SC Bastia",
+    "event_type": "Ligue 2 - France",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 2.42,
+        "stake": 40.97
+      },
+      "N": {
+        "bookmaker": "Matchbook",
+        "odd": 2.98,
+        "stake": 33.27
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 3.85,
+        "stake": 25.75
+      }
+    },
+    "profit_percent": -0.85,
+    "is_surebet": false
+  },
+  {
     "match": "Nieciecza - Arka Gdynia",
     "event_type": "Ekstraklasa - Poland",
     "outcomes": {
@@ -129,7 +129,7 @@
         "stake": 27.84
       },
       "2": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "FanDuel",
         "odd": 3.9,
         "stake": 25.41
       }
@@ -138,26 +138,26 @@
     "is_surebet": false
   },
   {
-    "match": "Annecy FC - SC Bastia",
-    "event_type": "Ligue 2 - France",
+    "match": "Hertha Berlin - Eintracht Braunschweig",
+    "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 2.42,
-        "stake": 40.88
+        "odd": 1.63,
+        "stake": 60.58
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 2.96,
-        "stake": 33.42
+        "bookmaker": "Smarkets",
+        "odd": 4.3,
+        "stake": 22.96
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 3.85,
-        "stake": 25.7
+        "bookmaker": "Smarkets",
+        "odd": 6.0,
+        "stake": 16.46
       }
     },
-    "profit_percent": -1.07,
+    "profit_percent": -1.26,
     "is_surebet": false
   },
   {
@@ -165,22 +165,22 @@
     "event_type": "3. Liga - Germany",
     "outcomes": {
       "1": {
-        "bookmaker": "Betfair",
-        "odd": 2.64,
-        "stake": 36.75
+        "bookmaker": "Paddy Power",
+        "odd": 2.7,
+        "stake": 36.23
       },
       "N": {
         "bookmaker": "Pinnacle",
         "odd": 3.7,
-        "stake": 26.22
+        "stake": 26.44
       },
       "2": {
         "bookmaker": "Betfair",
         "odd": 2.62,
-        "stake": 37.03
+        "stake": 37.33
       }
     },
-    "profit_percent": -2.98,
+    "profit_percent": -2.18,
     "is_surebet": false
   }
 ]
