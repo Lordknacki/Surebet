@@ -1,5 +1,28 @@
 [
   {
+    "match": "Hertha Berlin - Eintracht Braunschweig",
+    "event_type": "Bundesliga 2 - Germany",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 1.64,
+        "stake": 60.92
+      },
+      "N": {
+        "bookmaker": "Unibet (UK)",
+        "odd": 4.35,
+        "stake": 22.97
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 6.2,
+        "stake": 16.11
+      }
+    },
+    "profit_percent": -0.09,
+    "is_surebet": false
+  },
+  {
     "match": "KFUM - Bodø/Glimt",
     "event_type": "Eliteserien - Norway",
     "outcomes": {
@@ -46,49 +69,26 @@
     "is_surebet": false
   },
   {
-    "match": "Hertha Berlin - Eintracht Braunschweig",
-    "event_type": "Bundesliga 2 - Germany",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 1.64,
-        "stake": 60.59
-      },
-      "N": {
-        "bookmaker": "Unibet (UK)",
-        "odd": 4.35,
-        "stake": 22.84
-      },
-      "2": {
-        "bookmaker": "Smarkets",
-        "odd": 6.0,
-        "stake": 16.56
-      }
-    },
-    "profit_percent": -0.63,
-    "is_surebet": false
-  },
-  {
     "match": "Nieciecza - Arka Gdynia",
     "event_type": "Ekstraklasa - Poland",
     "outcomes": {
       "1": {
         "bookmaker": "Grosvenor",
         "odd": 2.12,
-        "stake": 46.82
+        "stake": 46.71
       },
       "N": {
-        "bookmaker": "Pinnacle",
-        "odd": 3.58,
-        "stake": 27.73
+        "bookmaker": "Betfair",
+        "odd": 3.55,
+        "stake": 27.9
       },
       "2": {
         "bookmaker": "FanDuel",
         "odd": 3.9,
-        "stake": 25.45
+        "stake": 25.39
       }
     },
-    "profit_percent": -0.74,
+    "profit_percent": -0.97,
     "is_surebet": false
   },
   {
@@ -98,43 +98,20 @@
       "1": {
         "bookmaker": "888sport",
         "odd": 2.4,
-        "stake": 41.31
+        "stake": 41.22
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 2.98,
-        "stake": 33.27
+        "bookmaker": "Matchbook",
+        "odd": 2.96,
+        "stake": 33.42
       },
       "2": {
         "bookmaker": "Betfair",
         "odd": 3.9,
-        "stake": 25.42
+        "stake": 25.36
       }
     },
-    "profit_percent": -0.86,
-    "is_surebet": false
-  },
-  {
-    "match": "Boulogne - Grenoble",
-    "event_type": "Ligue 2 - France",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Casumo",
-        "odd": 2.48,
-        "stake": 39.93
-      },
-      "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.2,
-        "stake": 30.95
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.4,
-        "stake": 29.13
-      }
-    },
-    "profit_percent": -0.97,
+    "profit_percent": -1.08,
     "is_surebet": false
   },
   {
@@ -142,7 +119,7 @@
     "event_type": "Denmark Superliga",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Betfair",
         "odd": 3.9,
         "stake": 25.35
       },
@@ -161,26 +138,49 @@
     "is_surebet": false
   },
   {
+    "match": "Boulogne - Grenoble",
+    "event_type": "Ligue 2 - France",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 2.5,
+        "stake": 39.54
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 3.15,
+        "stake": 31.38
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 3.4,
+        "stake": 29.08
+      }
+    },
+    "profit_percent": -1.14,
+    "is_surebet": false
+  },
+  {
     "match": "TSG Hoffenheim II - MSV Duisburg",
     "event_type": "3. Liga - Germany",
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 2.7,
-        "stake": 36.15
+        "odd": 2.66,
+        "stake": 36.5
       },
       "N": {
         "bookmaker": "Pinnacle",
         "odd": 3.71,
-        "stake": 26.31
+        "stake": 26.17
       },
       "2": {
         "bookmaker": "Betfair",
         "odd": 2.6,
-        "stake": 37.54
+        "stake": 37.34
       }
     },
-    "profit_percent": -2.39,
+    "profit_percent": -2.92,
     "is_surebet": false
   }
 ]
