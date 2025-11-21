@@ -1,17 +1,19 @@
-# .github/workflows/surebets.yml
-name: Run Surebet Scraper
+name: Update Shots Data
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: "*/10 * * * *"   # toutes les 10 minutes
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # IMPORTANT pour git pull --rebase
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -20,18 +22,27 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Run scraper
-        run: python run_scraper.py
-
-      - name: Commit and push surebets.json
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add docs/surebets.json
-          git commit -m "Update surebets.json" || echo "No changes to commit"
-          git push
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
+        run: |
+          python run_scraper.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git pull --rebase origin main || true
+
+          git add docs/shots.json
+
+          if git diff --cached --quiet; then
+            echo "Aucun changement détecté."
+            exit 0
+          fi
+
+          git commit -m "Update shots.json"
+          git push origin main
