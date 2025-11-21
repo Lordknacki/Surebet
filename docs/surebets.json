@@ -1,48 +1,25 @@
 [
   {
-    "match": "VfL Bochum - Dynamo Dresden",
-    "event_type": "Bundesliga 2 - Germany",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 2.0,
-        "stake": 49.84
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 3.95,
-        "stake": 25.24
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 4.0,
-        "stake": 24.92
-      }
-    },
-    "profit_percent": -0.32,
-    "is_surebet": false
-  },
-  {
     "match": "KFUM - Bodø/Glimt",
     "event_type": "Eliteserien - Norway",
     "outcomes": {
       "1": {
         "bookmaker": "Smarkets",
         "odd": 8.0,
-        "stake": 12.44
+        "stake": 12.48
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 5.4,
-        "stake": 18.43
+        "bookmaker": "Matchbook",
+        "odd": 5.5,
+        "stake": 18.16
       },
       "2": {
         "bookmaker": "GTbets",
         "odd": 1.44,
-        "stake": 69.12
+        "stake": 69.36
       }
     },
-    "profit_percent": -0.46,
+    "profit_percent": -0.13,
     "is_surebet": false
   },
   {
@@ -52,20 +29,43 @@
       "1": {
         "bookmaker": "Grosvenor",
         "odd": 2.12,
-        "stake": 46.89
+        "stake": 46.92
       },
       "N": {
         "bookmaker": "Matchbook",
-        "odd": 3.6,
-        "stake": 27.62
+        "odd": 3.65,
+        "stake": 27.25
       },
       "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.9,
-        "stake": 25.49
+        "bookmaker": "Betfair",
+        "odd": 3.85,
+        "stake": 25.83
       }
     },
-    "profit_percent": -0.59,
+    "profit_percent": -0.54,
+    "is_surebet": false
+  },
+  {
+    "match": "VfL Bochum - Dynamo Dresden",
+    "event_type": "Bundesliga 2 - Germany",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 2.0,
+        "stake": 49.53
+      },
+      "N": {
+        "bookmaker": "Smarkets",
+        "odd": 3.9,
+        "stake": 25.4
+      },
+      "2": {
+        "bookmaker": "Smarkets",
+        "odd": 3.95,
+        "stake": 25.08
+      }
+    },
+    "profit_percent": -0.95,
     "is_surebet": false
   },
   {
@@ -75,43 +75,20 @@
       "1": {
         "bookmaker": "Betfair",
         "odd": 1.66,
-        "stake": 59.8
+        "stake": 59.62
       },
       "N": {
         "bookmaker": "Matchbook",
         "odd": 4.3,
-        "stake": 23.09
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 5.8,
-        "stake": 17.12
-      }
-    },
-    "profit_percent": -0.73,
-    "is_surebet": false
-  },
-  {
-    "match": "Annecy FC - SC Bastia",
-    "event_type": "Ligue 2 - France",
-    "outcomes": {
-      "1": {
-        "bookmaker": "888sport",
-        "odd": 2.4,
-        "stake": 41.08
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 2.96,
-        "stake": 33.31
+        "stake": 23.02
       },
       "2": {
         "bookmaker": "Betfair",
-        "odd": 3.85,
-        "stake": 25.61
+        "odd": 5.7,
+        "stake": 17.36
       }
     },
-    "profit_percent": -1.4,
+    "profit_percent": -1.03,
     "is_surebet": false
   },
   {
@@ -119,12 +96,12 @@
     "event_type": "Denmark Superliga",
     "outcomes": {
       "1": {
-        "bookmaker": "Pinnacle",
+        "bookmaker": "Betfair",
         "odd": 3.8,
         "stake": 25.94
       },
       "N": {
-        "bookmaker": "Smarkets",
+        "bookmaker": "BetRivers",
         "odd": 3.9,
         "stake": 25.27
       },
@@ -135,6 +112,29 @@
       }
     },
     "profit_percent": -1.44,
+    "is_surebet": false
+  },
+  {
+    "match": "Annecy FC - SC Bastia",
+    "event_type": "Ligue 2 - France",
+    "outcomes": {
+      "1": {
+        "bookmaker": "888sport",
+        "odd": 2.4,
+        "stake": 41.04
+      },
+      "N": {
+        "bookmaker": "Pinnacle",
+        "odd": 2.95,
+        "stake": 33.38
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 3.85,
+        "stake": 25.58
+      }
+    },
+    "profit_percent": -1.52,
     "is_surebet": false
   },
   {
@@ -152,7 +152,7 @@
         "stake": 31.69
       },
       "2": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Betfair",
         "odd": 2.98,
         "stake": 32.97
       }
