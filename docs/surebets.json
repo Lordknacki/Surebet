@@ -1,28 +1,5 @@
 [
   {
-    "match": "Tijuana - FC Juárez",
-    "event_type": "Liga MX",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Pinnacle",
-        "odd": 2.15,
-        "stake": 85.18
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 13.0,
-        "stake": 14.09
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 250.0,
-        "stake": 0.73
-      }
-    },
-    "profit_percent": 83.14,
-    "is_surebet": true
-  },
-  {
     "match": "Adelaide United - Melbourne City",
     "event_type": "A-League",
     "outcomes": {
@@ -32,7 +9,7 @@
         "stake": 32.18
       },
       "N": {
-        "bookmaker": "Betfair",
+        "bookmaker": "Pinnacle",
         "odd": 3.85,
         "stake": 25.91
       },
@@ -46,49 +23,72 @@
     "is_surebet": false
   },
   {
-    "match": "Hertha Berlin - Eintracht Braunschweig",
-    "event_type": "Bundesliga 2 - Germany",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 1.62,
-        "stake": 61.37
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 4.4,
-        "stake": 22.6
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 6.2,
-        "stake": 16.04
-      }
-    },
-    "profit_percent": -0.58,
-    "is_surebet": false
-  },
-  {
     "match": "VfL Bochum - Dynamo Dresden",
     "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 2.0,
-        "stake": 49.68
+        "odd": 1.99,
+        "stake": 49.97
       },
       "N": {
         "bookmaker": "Betfair",
         "odd": 4.0,
-        "stake": 24.84
+        "stake": 24.86
       },
       "2": {
         "bookmaker": "Matchbook",
-        "odd": 3.9,
-        "stake": 25.48
+        "odd": 3.95,
+        "stake": 25.17
       }
     },
-    "profit_percent": -0.64,
+    "profit_percent": -0.56,
+    "is_surebet": false
+  },
+  {
+    "match": "Silkeborg IF - AGF Aarhus",
+    "event_type": "Denmark Superliga",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Pinnacle",
+        "odd": 3.69,
+        "stake": 26.88
+      },
+      "N": {
+        "bookmaker": "Unibet (NL)",
+        "odd": 3.9,
+        "stake": 25.43
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 2.08,
+        "stake": 47.69
+      }
+    },
+    "profit_percent": -0.81,
+    "is_surebet": false
+  },
+  {
+    "match": "Hertha Berlin - Eintracht Braunschweig",
+    "event_type": "Bundesliga 2 - Germany",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 1.6,
+        "stake": 61.97
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 4.4,
+        "stake": 22.54
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 6.4,
+        "stake": 15.49
+      }
+    },
+    "profit_percent": -0.85,
     "is_surebet": false
   },
   {
@@ -115,34 +115,11 @@
     "is_surebet": false
   },
   {
-    "match": "Silkeborg IF - AGF Aarhus",
-    "event_type": "Denmark Superliga",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 3.75,
-        "stake": 26.35
-      },
-      "N": {
-        "bookmaker": "BetRivers",
-        "odd": 3.85,
-        "stake": 25.67
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 2.06,
-        "stake": 47.98
-      }
-    },
-    "profit_percent": -1.17,
-    "is_surebet": false
-  },
-  {
     "match": "Nieciecza - Arka Gdynia",
     "event_type": "Ekstraklasa - Poland",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "LowVig.ag",
         "odd": 2.16,
         "stake": 45.41
       },
