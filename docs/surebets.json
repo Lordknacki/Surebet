@@ -29,20 +29,89 @@
       "1": {
         "bookmaker": "Betfair",
         "odd": 2.02,
-        "stake": 49.28
+        "stake": 49.43
       },
       "N": {
         "bookmaker": "Smarkets",
         "odd": 3.9,
-        "stake": 25.52
+        "stake": 25.6
+      },
+      "2": {
+        "bookmaker": "Matchbook",
+        "odd": 4.0,
+        "stake": 24.96
+      }
+    },
+    "profit_percent": -0.15,
+    "is_surebet": false
+  },
+  {
+    "match": "Boulogne - Grenoble",
+    "event_type": "Ligue 2 - France",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Pinnacle",
+        "odd": 2.81,
+        "stake": 35.35
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 3.15,
+        "stake": 31.54
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 3.0,
+        "stake": 33.11
+      }
+    },
+    "profit_percent": -0.66,
+    "is_surebet": false
+  },
+  {
+    "match": "Hertha Berlin - Eintracht Braunschweig",
+    "event_type": "Bundesliga 2 - Germany",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 1.67,
+        "stake": 59.48
+      },
+      "N": {
+        "bookmaker": "Matchbook",
+        "odd": 4.3,
+        "stake": 23.1
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 5.7,
+        "stake": 17.43
+      }
+    },
+    "profit_percent": -0.68,
+    "is_surebet": false
+  },
+  {
+    "match": "Silkeborg IF - AGF Aarhus",
+    "event_type": "Denmark Superliga",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 3.9,
+        "stake": 25.41
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 4.0,
+        "stake": 24.78
       },
       "2": {
         "bookmaker": "Smarkets",
-        "odd": 3.95,
-        "stake": 25.2
+        "odd": 1.99,
+        "stake": 49.81
       }
     },
-    "profit_percent": -0.46,
+    "profit_percent": -0.88,
     "is_surebet": false
   },
   {
@@ -69,95 +138,26 @@
     "is_surebet": false
   },
   {
-    "match": "Hertha Berlin - Eintracht Braunschweig",
-    "event_type": "Bundesliga 2 - Germany",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 1.66,
-        "stake": 59.62
-      },
-      "N": {
-        "bookmaker": "LowVig.ag",
-        "odd": 4.3,
-        "stake": 23.02
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 5.7,
-        "stake": 17.36
-      }
-    },
-    "profit_percent": -1.03,
-    "is_surebet": false
-  },
-  {
-    "match": "Silkeborg IF - AGF Aarhus",
-    "event_type": "Denmark Superliga",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Matchbook",
-        "odd": 3.9,
-        "stake": 25.32
-      },
-      "N": {
-        "bookmaker": "Smarkets",
-        "odd": 3.9,
-        "stake": 25.32
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 2.0,
-        "stake": 49.37
-      }
-    },
-    "profit_percent": -1.27,
-    "is_surebet": false
-  },
-  {
     "match": "Annecy FC - SC Bastia",
     "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
         "odd": 2.42,
-        "stake": 40.79
+        "stake": 40.65
       },
       "N": {
         "bookmaker": "Betfair",
         "odd": 2.94,
-        "stake": 33.57
+        "stake": 33.46
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 3.85,
-        "stake": 25.64
+        "bookmaker": "Smarkets",
+        "odd": 3.8,
+        "stake": 25.89
       }
     },
-    "profit_percent": -1.29,
-    "is_surebet": false
-  },
-  {
-    "match": "Boulogne - Grenoble",
-    "event_type": "Ligue 2 - France",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 2.82,
-        "stake": 34.85
-      },
-      "N": {
-        "bookmaker": "Bet Victor",
-        "odd": 3.12,
-        "stake": 31.5
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 2.92,
-        "stake": 33.65
-      }
-    },
-    "profit_percent": -1.73,
+    "profit_percent": -1.62,
     "is_surebet": false
   },
   {
