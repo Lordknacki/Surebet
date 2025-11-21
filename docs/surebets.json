@@ -1,25 +1,25 @@
 [
   {
-    "match": "KFUM - Bodø/Glimt",
-    "event_type": "Eliteserien - Norway",
+    "match": "Boulogne - Grenoble",
+    "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
-        "bookmaker": "LeoVegas (SE)",
-        "odd": 8.0,
-        "stake": 12.5
+        "bookmaker": "Bovada",
+        "odd": 2.61,
+        "stake": 38.71
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 5.4,
-        "stake": 18.52
+        "bookmaker": "Matchbook",
+        "odd": 3.2,
+        "stake": 31.57
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 1.45,
-        "stake": 68.98
+        "bookmaker": "Matchbook",
+        "odd": 3.4,
+        "stake": 29.72
       }
     },
-    "profit_percent": 0.02,
+    "profit_percent": 1.03,
     "is_surebet": true
   },
   {
@@ -28,21 +28,44 @@
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 1.66,
-        "stake": 59.97
+        "odd": 1.65,
+        "stake": 60.61
       },
       "N": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Smarkets",
         "odd": 4.3,
-        "stake": 23.15
+        "stake": 23.26
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 5.9,
-        "stake": 16.87
+        "bookmaker": "Matchbook",
+        "odd": 6.2,
+        "stake": 16.13
       }
     },
-    "profit_percent": -0.44,
+    "profit_percent": 0.01,
+    "is_surebet": true
+  },
+  {
+    "match": "KFUM - Bodø/Glimt",
+    "event_type": "Eliteserien - Norway",
+    "outcomes": {
+      "1": {
+        "bookmaker": "LeoVegas (SE)",
+        "odd": 8.0,
+        "stake": 12.48
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 5.5,
+        "stake": 18.16
+      },
+      "2": {
+        "bookmaker": "GTbets",
+        "odd": 1.44,
+        "stake": 69.36
+      }
+    },
+    "profit_percent": -0.13,
     "is_surebet": false
   },
   {
@@ -52,43 +75,20 @@
       "1": {
         "bookmaker": "Betfair",
         "odd": 2.02,
-        "stake": 49.28
+        "stake": 49.44
       },
       "N": {
-        "bookmaker": "Smarkets",
-        "odd": 3.9,
-        "stake": 25.52
+        "bookmaker": "Matchbook",
+        "odd": 3.95,
+        "stake": 25.28
       },
       "2": {
         "bookmaker": "Smarkets",
         "odd": 3.95,
-        "stake": 25.2
+        "stake": 25.28
       }
     },
-    "profit_percent": -0.46,
-    "is_surebet": false
-  },
-  {
-    "match": "Boulogne - Grenoble",
-    "event_type": "Ligue 2 - France",
-    "outcomes": {
-      "1": {
-        "bookmaker": "BetMGM",
-        "odd": 2.5,
-        "stake": 39.74
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 3.2,
-        "stake": 31.04
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 3.4,
-        "stake": 29.22
-      }
-    },
-    "profit_percent": -0.66,
+    "profit_percent": -0.14,
     "is_surebet": false
   },
   {
@@ -142,22 +142,22 @@
     "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
-        "bookmaker": "888sport",
-        "odd": 2.4,
-        "stake": 41.17
+        "bookmaker": "Betfair",
+        "odd": 2.42,
+        "stake": 40.88
       },
       "N": {
-        "bookmaker": "Matchbook",
-        "odd": 2.98,
-        "stake": 33.16
+        "bookmaker": "Betfair",
+        "odd": 2.96,
+        "stake": 33.42
       },
       "2": {
         "bookmaker": "Betfair",
         "odd": 3.85,
-        "stake": 25.67
+        "stake": 25.7
       }
     },
-    "profit_percent": -1.18,
+    "profit_percent": -1.07,
     "is_surebet": false
   },
   {
