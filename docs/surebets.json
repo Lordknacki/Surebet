@@ -1,25 +1,25 @@
 [
   {
-    "match": "Pachuca - Pumas",
+    "match": "Tijuana - FC Juárez",
     "event_type": "Liga MX",
     "outcomes": {
       "1": {
-        "bookmaker": "Betfair",
-        "odd": 1.03,
-        "stake": 98.0
+        "bookmaker": "Coolbet",
+        "odd": 5.0,
+        "stake": 25.95
       },
       "N": {
-        "bookmaker": "FanDuel",
-        "odd": 56.0,
-        "stake": 1.8
+        "bookmaker": "Matchbook",
+        "odd": 3.75,
+        "stake": 34.6
       },
       "2": {
-        "bookmaker": "Paddy Power",
-        "odd": 501.0,
-        "stake": 0.2
+        "bookmaker": "Pinnacle",
+        "odd": 3.29,
+        "stake": 39.44
       }
     },
-    "profit_percent": 0.94,
+    "profit_percent": 29.77,
     "is_surebet": true
   },
   {
@@ -37,7 +37,7 @@
         "stake": 25.77
       },
       "2": {
-        "bookmaker": "888sport",
+        "bookmaker": "Betfair",
         "odd": 2.38,
         "stake": 41.69
       }
@@ -46,26 +46,26 @@
     "is_surebet": false
   },
   {
-    "match": "Tijuana - FC Juárez",
-    "event_type": "Liga MX",
+    "match": "Silkeborg IF - AGF Aarhus",
+    "event_type": "Denmark Superliga",
     "outcomes": {
       "1": {
         "bookmaker": "Matchbook",
-        "odd": 2.26,
-        "stake": 43.81
+        "odd": 3.8,
+        "stake": 26.1
       },
       "N": {
-        "bookmaker": "Unibet",
-        "odd": 3.5,
-        "stake": 28.29
+        "bookmaker": "BetRivers",
+        "odd": 3.85,
+        "stake": 25.76
       },
       "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.55,
-        "stake": 27.89
+        "bookmaker": "Betfair",
+        "odd": 2.06,
+        "stake": 48.14
       }
     },
-    "profit_percent": -0.98,
+    "profit_percent": -0.83,
     "is_surebet": false
   },
   {
@@ -78,12 +78,12 @@
         "stake": 52.88
       },
       "N": {
-        "bookmaker": "Betfair",
+        "bookmaker": "Matchbook",
         "odd": 4.1,
         "stake": 24.12
       },
       "2": {
-        "bookmaker": "Betfair",
+        "bookmaker": "Matchbook",
         "odd": 4.3,
         "stake": 23.0
       }
@@ -115,29 +115,6 @@
     "is_surebet": false
   },
   {
-    "match": "Silkeborg IF - AGF Aarhus",
-    "event_type": "Denmark Superliga",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Matchbook",
-        "odd": 3.75,
-        "stake": 26.35
-      },
-      "N": {
-        "bookmaker": "BetRivers",
-        "odd": 3.85,
-        "stake": 25.67
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 2.06,
-        "stake": 47.98
-      }
-    },
-    "profit_percent": -1.17,
-    "is_surebet": false
-  },
-  {
     "match": "KFUM - Bodø/Glimt",
     "event_type": "Eliteserien - Norway",
     "outcomes": {
@@ -147,17 +124,40 @@
         "stake": 13.65
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 5.3,
-        "stake": 18.55
+        "bookmaker": "Pinnacle",
+        "odd": 5.29,
+        "stake": 18.58
       },
       "2": {
         "bookmaker": "Unibet (UK)",
         "odd": 1.45,
-        "stake": 67.8
+        "stake": 67.77
       }
     },
-    "profit_percent": -1.69,
+    "profit_percent": -1.73,
+    "is_surebet": false
+  },
+  {
+    "match": "Annecy FC - SC Bastia",
+    "event_type": "Ligue 2 - France",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Coolbet",
+        "odd": 2.5,
+        "stake": 39.19
+      },
+      "N": {
+        "bookmaker": "BetMGM",
+        "odd": 2.95,
+        "stake": 33.21
+      },
+      "2": {
+        "bookmaker": "Matchbook",
+        "odd": 3.55,
+        "stake": 27.6
+      }
+    },
+    "profit_percent": -2.03,
     "is_surebet": false
   },
   {
@@ -167,20 +167,20 @@
       "1": {
         "bookmaker": "Grosvenor",
         "odd": 2.12,
-        "stake": 46.08
+        "stake": 45.9
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 3.55,
-        "stake": 27.52
+        "bookmaker": "DraftKings",
+        "odd": 3.5,
+        "stake": 27.8
       },
       "2": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Smarkets",
         "odd": 3.7,
-        "stake": 26.4
+        "stake": 26.3
       }
     },
-    "profit_percent": -2.31,
+    "profit_percent": -2.69,
     "is_surebet": false
   },
   {
@@ -189,21 +189,21 @@
     "outcomes": {
       "1": {
         "bookmaker": "Pinnacle",
-        "odd": 2.57,
-        "stake": 37.03
+        "odd": 2.58,
+        "stake": 36.94
       },
       "N": {
         "bookmaker": "Pinnacle",
         "odd": 3.65,
-        "stake": 26.08
+        "stake": 26.11
       },
       "2": {
         "bookmaker": "Betfair",
         "odd": 2.58,
-        "stake": 36.89
+        "stake": 36.94
       }
     },
-    "profit_percent": -4.82,
+    "profit_percent": -4.69,
     "is_surebet": false
   }
 ]
