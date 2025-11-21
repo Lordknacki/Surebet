@@ -9,7 +9,7 @@
         "stake": 12.48
       },
       "N": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Betfair",
         "odd": 5.5,
         "stake": 18.16
       },
@@ -55,7 +55,7 @@
         "stake": 46.74
       },
       "N": {
-        "bookmaker": "Betfair",
+        "bookmaker": "Matchbook",
         "odd": 3.6,
         "stake": 27.52
       },
@@ -101,7 +101,7 @@
         "stake": 25.32
       },
       "N": {
-        "bookmaker": "BetRivers",
+        "bookmaker": "Smarkets",
         "odd": 3.9,
         "stake": 25.32
       },
@@ -119,22 +119,22 @@
     "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
-        "bookmaker": "888sport",
-        "odd": 2.4,
-        "stake": 40.99
+        "bookmaker": "Betfair",
+        "odd": 2.42,
+        "stake": 40.79
       },
       "N": {
         "bookmaker": "Betfair",
         "odd": 2.94,
-        "stake": 33.46
+        "stake": 33.57
       },
       "2": {
         "bookmaker": "Betfair",
         "odd": 3.85,
-        "stake": 25.55
+        "stake": 25.64
       }
     },
-    "profit_percent": -1.63,
+    "profit_percent": -1.29,
     "is_surebet": false
   },
   {
@@ -143,21 +143,21 @@
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 2.78,
-        "stake": 35.34
+        "odd": 2.82,
+        "stake": 34.85
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 3.1,
-        "stake": 31.69
+        "bookmaker": "Bet Victor",
+        "odd": 3.12,
+        "stake": 31.5
       },
       "2": {
-        "bookmaker": "Matchbook",
-        "odd": 2.98,
-        "stake": 32.97
+        "bookmaker": "Betfair",
+        "odd": 2.92,
+        "stake": 33.65
       }
     },
-    "profit_percent": -1.75,
+    "profit_percent": -1.73,
     "is_surebet": false
   },
   {
