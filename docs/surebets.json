@@ -6,20 +6,20 @@
       "1": {
         "bookmaker": "Pinnacle",
         "odd": 2.15,
-        "stake": 86.65
+        "stake": 85.18
       },
       "N": {
-        "bookmaker": "Unibet",
-        "odd": 15.0,
-        "stake": 12.42
+        "bookmaker": "Betfair",
+        "odd": 13.0,
+        "stake": 14.09
       },
       "2": {
-        "bookmaker": "Unibet (UK)",
-        "odd": 201.0,
-        "stake": 0.93
+        "bookmaker": "Matchbook",
+        "odd": 250.0,
+        "stake": 0.73
       }
     },
-    "profit_percent": 86.3,
+    "profit_percent": 83.14,
     "is_surebet": true
   },
   {
@@ -46,26 +46,26 @@
     "is_surebet": false
   },
   {
-    "match": "KFUM - Bodø/Glimt",
-    "event_type": "Eliteserien - Norway",
+    "match": "Hertha Berlin - Eintracht Braunschweig",
+    "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 7.6,
-        "stake": 13.08
+        "odd": 1.62,
+        "stake": 61.37
       },
       "N": {
-        "bookmaker": "Pinnacle",
-        "odd": 5.28,
-        "stake": 18.83
+        "bookmaker": "Betfair",
+        "odd": 4.4,
+        "stake": 22.6
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 1.46,
-        "stake": 68.09
+        "bookmaker": "Matchbook",
+        "odd": 6.2,
+        "stake": 16.04
       }
     },
-    "profit_percent": -0.59,
+    "profit_percent": -0.58,
     "is_surebet": false
   },
   {
@@ -73,7 +73,7 @@
     "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Betfair",
         "odd": 2.0,
         "stake": 49.68
       },
@@ -92,26 +92,26 @@
     "is_surebet": false
   },
   {
-    "match": "Hertha Berlin - Eintracht Braunschweig",
-    "event_type": "Bundesliga 2 - Germany",
+    "match": "KFUM - Bodø/Glimt",
+    "event_type": "Eliteserien - Norway",
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 1.62,
-        "stake": 61.04
+        "odd": 7.6,
+        "stake": 13.03
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 4.4,
-        "stake": 22.48
+        "bookmaker": "Matchbook",
+        "odd": 5.3,
+        "stake": 18.68
       },
       "2": {
-        "bookmaker": "Smarkets",
-        "odd": 6.0,
-        "stake": 16.48
+        "bookmaker": "Betfair",
+        "odd": 1.45,
+        "stake": 68.29
       }
     },
-    "profit_percent": -1.11,
+    "profit_percent": -0.98,
     "is_surebet": false
   },
   {
@@ -142,7 +142,7 @@
     "event_type": "Ekstraklasa - Poland",
     "outcomes": {
       "1": {
-        "bookmaker": "LowVig.ag",
+        "bookmaker": "Matchbook",
         "odd": 2.16,
         "stake": 45.41
       },
@@ -152,7 +152,7 @@
         "stake": 28.43
       },
       "2": {
-        "bookmaker": "Betfair",
+        "bookmaker": "Matchbook",
         "odd": 3.75,
         "stake": 26.16
       }
