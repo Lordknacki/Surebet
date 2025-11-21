@@ -10,6 +10,7 @@ from surebet_engine import detect_surebets
 def collect_all_odds():
     odds = []
     print("Scraping via API-FOOTBALL (pré-match)...")
+    odds += football_api_shots.scrape()
     odds += football_api.scrape()
     print(f"Total cotes récupérées : {len(odds)}")
     return odds
