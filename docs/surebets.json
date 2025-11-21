@@ -5,21 +5,21 @@
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 3.0,
-        "stake": 33.23
+        "odd": 3.05,
+        "stake": 32.65
       },
       "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.9,
-        "stake": 25.57
+        "bookmaker": "Betfair",
+        "odd": 3.85,
+        "stake": 25.86
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 2.42,
-        "stake": 41.2
+        "bookmaker": "Matchbook",
+        "odd": 2.4,
+        "stake": 41.49
       }
     },
-    "profit_percent": -0.3,
+    "profit_percent": -0.43,
     "is_surebet": false
   },
   {
@@ -28,21 +28,67 @@
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 1.99,
-        "stake": 49.97
+        "odd": 2.0,
+        "stake": 49.68
       },
       "N": {
         "bookmaker": "Betfair",
         "odd": 4.0,
-        "stake": 24.86
+        "stake": 24.84
       },
       "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.95,
-        "stake": 25.17
+        "bookmaker": "Betfair",
+        "odd": 3.9,
+        "stake": 25.48
       }
     },
-    "profit_percent": -0.56,
+    "profit_percent": -0.64,
+    "is_surebet": false
+  },
+  {
+    "match": "Silkeborg IF - AGF Aarhus",
+    "event_type": "Denmark Superliga",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 3.9,
+        "stake": 25.44
+      },
+      "N": {
+        "bookmaker": "BetRivers",
+        "odd": 3.9,
+        "stake": 25.44
+      },
+      "2": {
+        "bookmaker": "Nordic Bet",
+        "odd": 2.02,
+        "stake": 49.12
+      }
+    },
+    "profit_percent": -0.78,
+    "is_surebet": false
+  },
+  {
+    "match": "KFUM - Bodø/Glimt",
+    "event_type": "Eliteserien - Norway",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 7.6,
+        "stake": 13.05
+      },
+      "N": {
+        "bookmaker": "Pinnacle",
+        "odd": 5.35,
+        "stake": 18.54
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 1.45,
+        "stake": 68.41
+      }
+    },
+    "profit_percent": -0.81,
     "is_surebet": false
   },
   {
@@ -69,72 +115,26 @@
     "is_surebet": false
   },
   {
-    "match": "KFUM - Bodø/Glimt",
-    "event_type": "Eliteserien - Norway",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 7.6,
-        "stake": 13.04
-      },
-      "N": {
-        "bookmaker": "Pinnacle",
-        "odd": 5.33,
-        "stake": 18.6
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 1.45,
-        "stake": 68.36
-      }
-    },
-    "profit_percent": -0.88,
-    "is_surebet": false
-  },
-  {
-    "match": "Silkeborg IF - AGF Aarhus",
-    "event_type": "Denmark Superliga",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 3.75,
-        "stake": 26.32
-      },
-      "N": {
-        "bookmaker": "BetRivers",
-        "odd": 3.9,
-        "stake": 25.31
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 2.04,
-        "stake": 48.38
-      }
-    },
-    "profit_percent": -1.31,
-    "is_surebet": false
-  },
-  {
     "match": "Annecy FC - SC Bastia",
     "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
         "bookmaker": "Matchbook",
-        "odd": 2.52,
-        "stake": 38.98
+        "odd": 2.48,
+        "stake": 39.6
       },
       "N": {
-        "bookmaker": "Matchbook",
-        "odd": 2.98,
-        "stake": 32.96
+        "bookmaker": "Bet Victor",
+        "odd": 3.0,
+        "stake": 32.74
       },
       "2": {
         "bookmaker": "Betfair",
-        "odd": 3.5,
-        "stake": 28.06
+        "odd": 3.55,
+        "stake": 27.66
       }
     },
-    "profit_percent": -1.78,
+    "profit_percent": -1.79,
     "is_surebet": false
   },
   {
@@ -147,7 +147,7 @@
         "stake": 45.83
       },
       "N": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Coolbet",
         "odd": 3.5,
         "stake": 28.02
       },
