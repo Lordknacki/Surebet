@@ -1,28 +1,5 @@
 [
   {
-    "match": "Hertha Berlin - Eintracht Braunschweig",
-    "event_type": "Bundesliga 2 - Germany",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Matchbook",
-        "odd": 1.64,
-        "stake": 60.76
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 4.3,
-        "stake": 23.17
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 6.2,
-        "stake": 16.07
-      }
-    },
-    "profit_percent": -0.36,
-    "is_surebet": false
-  },
-  {
     "match": "KFUM - Bodø/Glimt",
     "event_type": "Eliteserien - Norway",
     "outcomes": {
@@ -46,26 +23,72 @@
     "is_surebet": false
   },
   {
-    "match": "VfL Bochum - Dynamo Dresden",
+    "match": "Nieciecza - Arka Gdynia",
+    "event_type": "Ekstraklasa - Poland",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Grosvenor",
+        "odd": 2.12,
+        "stake": 46.89
+      },
+      "N": {
+        "bookmaker": "Matchbook",
+        "odd": 3.6,
+        "stake": 27.62
+      },
+      "2": {
+        "bookmaker": "FanDuel",
+        "odd": 3.9,
+        "stake": 25.49
+      }
+    },
+    "profit_percent": -0.59,
+    "is_surebet": false
+  },
+  {
+    "match": "Boulogne - Grenoble",
+    "event_type": "Ligue 2 - France",
+    "outcomes": {
+      "1": {
+        "bookmaker": "BetMGM",
+        "odd": 2.5,
+        "stake": 39.74
+      },
+      "N": {
+        "bookmaker": "Matchbook",
+        "odd": 3.2,
+        "stake": 31.04
+      },
+      "2": {
+        "bookmaker": "Matchbook",
+        "odd": 3.4,
+        "stake": 29.22
+      }
+    },
+    "profit_percent": -0.66,
+    "is_surebet": false
+  },
+  {
+    "match": "Hertha Berlin - Eintracht Braunschweig",
     "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 2.0,
-        "stake": 49.69
+        "odd": 1.63,
+        "stake": 60.9
       },
       "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.95,
-        "stake": 25.16
+        "bookmaker": "Smarkets",
+        "odd": 4.4,
+        "stake": 22.56
       },
       "2": {
-        "bookmaker": "Smarkets",
-        "odd": 3.95,
-        "stake": 25.16
+        "bookmaker": "Betfair",
+        "odd": 6.0,
+        "stake": 16.54
       }
     },
-    "profit_percent": -0.63,
+    "profit_percent": -0.74,
     "is_surebet": false
   },
   {
@@ -92,72 +115,49 @@
     "is_surebet": false
   },
   {
+    "match": "VfL Bochum - Dynamo Dresden",
+    "event_type": "Bundesliga 2 - Germany",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 2.0,
+        "stake": 49.53
+      },
+      "N": {
+        "bookmaker": "Smarkets",
+        "odd": 3.9,
+        "stake": 25.4
+      },
+      "2": {
+        "bookmaker": "Smarkets",
+        "odd": 3.95,
+        "stake": 25.08
+      }
+    },
+    "profit_percent": -0.95,
+    "is_surebet": false
+  },
+  {
     "match": "Annecy FC - SC Bastia",
     "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
-        "odd": 2.42,
-        "stake": 40.97
+        "bookmaker": "888sport",
+        "odd": 2.4,
+        "stake": 41.17
       },
       "N": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Betfair",
         "odd": 2.98,
-        "stake": 33.27
+        "stake": 33.16
       },
       "2": {
         "bookmaker": "Betfair",
         "odd": 3.85,
-        "stake": 25.75
+        "stake": 25.67
       }
     },
-    "profit_percent": -0.85,
-    "is_surebet": false
-  },
-  {
-    "match": "Nieciecza - Arka Gdynia",
-    "event_type": "Ekstraklasa - Poland",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Grosvenor",
-        "odd": 2.12,
-        "stake": 46.75
-      },
-      "N": {
-        "bookmaker": "Pinnacle",
-        "odd": 3.56,
-        "stake": 27.84
-      },
-      "2": {
-        "bookmaker": "FanDuel",
-        "odd": 3.9,
-        "stake": 25.41
-      }
-    },
-    "profit_percent": -0.89,
-    "is_surebet": false
-  },
-  {
-    "match": "Boulogne - Grenoble",
-    "event_type": "Ligue 2 - France",
-    "outcomes": {
-      "1": {
-        "bookmaker": "BetMGM",
-        "odd": 2.5,
-        "stake": 39.56
-      },
-      "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.2,
-        "stake": 30.91
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.35,
-        "stake": 29.53
-      }
-    },
-    "profit_percent": -1.09,
+    "profit_percent": -1.18,
     "is_surebet": false
   },
   {
