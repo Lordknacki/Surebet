@@ -1,28 +1,5 @@
 [
   {
-    "match": "Hertha Berlin - Eintracht Braunschweig",
-    "event_type": "Bundesliga 2 - Germany",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 1.64,
-        "stake": 60.75
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 4.4,
-        "stake": 22.64
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 6.0,
-        "stake": 16.61
-      }
-    },
-    "profit_percent": -0.37,
-    "is_surebet": false
-  },
-  {
     "match": "KFUM - Bodø/Glimt",
     "event_type": "Eliteserien - Norway",
     "outcomes": {
@@ -43,29 +20,6 @@
       }
     },
     "profit_percent": -0.46,
-    "is_surebet": false
-  },
-  {
-    "match": "Nieciecza - Arka Gdynia",
-    "event_type": "Ekstraklasa - Poland",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Grosvenor",
-        "odd": 2.12,
-        "stake": 46.89
-      },
-      "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.6,
-        "stake": 27.62
-      },
-      "2": {
-        "bookmaker": "FanDuel",
-        "odd": 3.9,
-        "stake": 25.49
-      }
-    },
-    "profit_percent": -0.59,
     "is_surebet": false
   },
   {
@@ -92,26 +46,72 @@
     "is_surebet": false
   },
   {
+    "match": "Hertha Berlin - Eintracht Braunschweig",
+    "event_type": "Bundesliga 2 - Germany",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 1.64,
+        "stake": 60.59
+      },
+      "N": {
+        "bookmaker": "Unibet (UK)",
+        "odd": 4.35,
+        "stake": 22.84
+      },
+      "2": {
+        "bookmaker": "Smarkets",
+        "odd": 6.0,
+        "stake": 16.56
+      }
+    },
+    "profit_percent": -0.63,
+    "is_surebet": false
+  },
+  {
+    "match": "Nieciecza - Arka Gdynia",
+    "event_type": "Ekstraklasa - Poland",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Grosvenor",
+        "odd": 2.12,
+        "stake": 46.82
+      },
+      "N": {
+        "bookmaker": "Pinnacle",
+        "odd": 3.58,
+        "stake": 27.73
+      },
+      "2": {
+        "bookmaker": "FanDuel",
+        "odd": 3.9,
+        "stake": 25.45
+      }
+    },
+    "profit_percent": -0.74,
+    "is_surebet": false
+  },
+  {
     "match": "Annecy FC - SC Bastia",
     "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
         "bookmaker": "888sport",
         "odd": 2.4,
-        "stake": 41.4
+        "stake": 41.31
       },
       "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.0,
-        "stake": 33.12
+        "bookmaker": "Betfair",
+        "odd": 2.98,
+        "stake": 33.27
       },
       "2": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Betfair",
         "odd": 3.9,
-        "stake": 25.48
+        "stake": 25.42
       }
     },
-    "profit_percent": -0.64,
+    "profit_percent": -0.86,
     "is_surebet": false
   },
   {
@@ -142,7 +142,7 @@
     "event_type": "Denmark Superliga",
     "outcomes": {
       "1": {
-        "bookmaker": "Betfair",
+        "bookmaker": "Matchbook",
         "odd": 3.9,
         "stake": 25.35
       },
@@ -167,20 +167,20 @@
       "1": {
         "bookmaker": "Betfair",
         "odd": 2.7,
-        "stake": 36.12
+        "stake": 36.15
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 3.7,
-        "stake": 26.36
+        "bookmaker": "Pinnacle",
+        "odd": 3.71,
+        "stake": 26.31
       },
       "2": {
         "bookmaker": "Betfair",
         "odd": 2.6,
-        "stake": 37.51
+        "stake": 37.54
       }
     },
-    "profit_percent": -2.46,
+    "profit_percent": -2.39,
     "is_surebet": false
   }
 ]
