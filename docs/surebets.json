@@ -4,22 +4,22 @@
     "event_type": "Liga MX",
     "outcomes": {
       "1": {
-        "bookmaker": "Coolbet",
-        "odd": 5.0,
-        "stake": 25.95
+        "bookmaker": "Pinnacle",
+        "odd": 4.27,
+        "stake": 32.21
       },
       "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.75,
-        "stake": 34.6
+        "bookmaker": "Pinnacle",
+        "odd": 3.57,
+        "stake": 38.53
       },
       "2": {
-        "bookmaker": "Pinnacle",
-        "odd": 3.29,
-        "stake": 39.44
+        "bookmaker": "Matchbook",
+        "odd": 4.7,
+        "stake": 29.26
       }
     },
-    "profit_percent": 29.77,
+    "profit_percent": 37.54,
     "is_surebet": true
   },
   {
@@ -29,20 +29,20 @@
       "1": {
         "bookmaker": "Betfair",
         "odd": 3.05,
-        "stake": 32.53
+        "stake": 32.76
       },
       "N": {
         "bookmaker": "Betfair",
         "odd": 3.85,
-        "stake": 25.77
+        "stake": 25.95
       },
       "2": {
         "bookmaker": "Betfair",
-        "odd": 2.38,
-        "stake": 41.69
+        "odd": 2.42,
+        "stake": 41.29
       }
     },
-    "profit_percent": -0.77,
+    "profit_percent": -0.08,
     "is_surebet": false
   },
   {
@@ -78,12 +78,12 @@
         "stake": 52.88
       },
       "N": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Betfair",
         "odd": 4.1,
         "stake": 24.12
       },
       "2": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Betfair",
         "odd": 4.3,
         "stake": 23.0
       }
@@ -106,7 +106,7 @@
         "stake": 22.48
       },
       "2": {
-        "bookmaker": "Betfair",
+        "bookmaker": "Smarkets",
         "odd": 6.0,
         "stake": 16.48
       }
@@ -121,20 +121,20 @@
       "1": {
         "bookmaker": "Betfair",
         "odd": 7.2,
-        "stake": 13.65
+        "stake": 13.66
       },
       "N": {
         "bookmaker": "Pinnacle",
-        "odd": 5.29,
-        "stake": 18.58
+        "odd": 5.31,
+        "stake": 18.52
       },
       "2": {
-        "bookmaker": "Unibet (UK)",
+        "bookmaker": "Smarkets",
         "odd": 1.45,
-        "stake": 67.77
+        "stake": 67.82
       }
     },
-    "profit_percent": -1.73,
+    "profit_percent": -1.66,
     "is_surebet": false
   },
   {
@@ -144,20 +144,20 @@
       "1": {
         "bookmaker": "Coolbet",
         "odd": 2.5,
-        "stake": 39.19
+        "stake": 39.04
       },
       "N": {
         "bookmaker": "BetMGM",
         "odd": 2.95,
-        "stake": 33.21
+        "stake": 33.08
       },
       "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.55,
-        "stake": 27.6
+        "bookmaker": "Pinnacle",
+        "odd": 3.5,
+        "stake": 27.88
       }
     },
-    "profit_percent": -2.03,
+    "profit_percent": -2.41,
     "is_surebet": false
   },
   {
@@ -175,7 +175,7 @@
         "stake": 27.8
       },
       "2": {
-        "bookmaker": "Smarkets",
+        "bookmaker": "Matchbook",
         "odd": 3.7,
         "stake": 26.3
       }
