@@ -1,5 +1,51 @@
 [
   {
+    "match": "Adelaide United - Melbourne City",
+    "event_type": "A-League",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 2.9,
+        "stake": 34.44
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 3.9,
+        "stake": 25.61
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 2.5,
+        "stake": 39.95
+      }
+    },
+    "profit_percent": -0.12,
+    "is_surebet": false
+  },
+  {
+    "match": "VfL Bochum - Dynamo Dresden",
+    "event_type": "Bundesliga 2 - Germany",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Smarkets",
+        "odd": 2.0,
+        "stake": 49.84
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 4.0,
+        "stake": 24.92
+      },
+      "2": {
+        "bookmaker": "Bovada",
+        "odd": 3.95,
+        "stake": 25.24
+      }
+    },
+    "profit_percent": -0.32,
+    "is_surebet": false
+  },
+  {
     "match": "Annecy FC - SC Bastia",
     "event_type": "Ligue 2 - France",
     "outcomes": {
@@ -9,7 +55,7 @@
         "stake": 38.82
       },
       "N": {
-        "bookmaker": "Smarkets",
+        "bookmaker": "Betfair",
         "odd": 2.96,
         "stake": 33.57
       },
@@ -28,44 +74,21 @@
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 7.6,
-        "stake": 13.05
+        "odd": 7.8,
+        "stake": 12.72
       },
       "N": {
-        "bookmaker": "Pinnacle",
-        "odd": 5.34,
-        "stake": 18.57
+        "bookmaker": "Matchbook",
+        "odd": 5.4,
+        "stake": 18.37
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 1.45,
-        "stake": 68.38
+        "bookmaker": "GTbets",
+        "odd": 1.44,
+        "stake": 68.9
       }
     },
-    "profit_percent": -0.84,
-    "is_surebet": false
-  },
-  {
-    "match": "VfL Bochum - Dynamo Dresden",
-    "event_type": "Bundesliga 2 - Germany",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 2.0,
-        "stake": 49.52
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 4.0,
-        "stake": 24.76
-      },
-      "2": {
-        "bookmaker": "Smarkets",
-        "odd": 3.85,
-        "stake": 25.72
-      }
-    },
-    "profit_percent": -0.96,
+    "profit_percent": -0.78,
     "is_surebet": false
   },
   {
@@ -89,29 +112,6 @@
       }
     },
     "profit_percent": -0.97,
-    "is_surebet": false
-  },
-  {
-    "match": "Adelaide United - Melbourne City",
-    "event_type": "A-League",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 2.96,
-        "stake": 33.42
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 3.9,
-        "stake": 25.36
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 2.4,
-        "stake": 41.22
-      }
-    },
-    "profit_percent": -1.08,
     "is_surebet": false
   },
   {
@@ -142,22 +142,22 @@
     "event_type": "Ekstraklasa - Poland",
     "outcomes": {
       "1": {
-        "bookmaker": "LowVig.ag",
-        "odd": 2.16,
-        "stake": 45.27
+        "bookmaker": "Matchbook",
+        "odd": 2.18,
+        "stake": 45.21
       },
       "N": {
         "bookmaker": "Coolbet",
         "odd": 3.5,
-        "stake": 27.94
+        "stake": 28.16
       },
       "2": {
         "bookmaker": "Matchbook",
-        "odd": 3.65,
-        "stake": 26.79
+        "odd": 3.7,
+        "stake": 26.64
       }
     },
-    "profit_percent": -2.21,
+    "profit_percent": -1.45,
     "is_surebet": false
   },
   {
