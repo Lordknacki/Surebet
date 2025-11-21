@@ -4,30 +4,99 @@
     "event_type": "A-League",
     "outcomes": {
       "1": {
-        "bookmaker": "LeoVegas (SE)",
+        "bookmaker": "Coolbet",
         "odd": 2.75,
-        "stake": 36.51
+        "stake": 45.36
       },
       "N": {
         "bookmaker": "Betfair",
-        "odd": 3.9,
-        "stake": 25.74
+        "odd": 4.2,
+        "stake": 29.7
       },
       "2": {
         "bookmaker": "Betfair",
-        "odd": 2.66,
-        "stake": 37.75
+        "odd": 5.0,
+        "stake": 24.95
       }
     },
-    "profit_percent": 0.4,
+    "profit_percent": 24.73,
     "is_surebet": true
+  },
+  {
+    "match": "Nieciecza - Arka Gdynia",
+    "event_type": "Ekstraklasa - Poland",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 2.18,
+        "stake": 45.83
+      },
+      "N": {
+        "bookmaker": "Coolbet",
+        "odd": 3.5,
+        "stake": 28.55
+      },
+      "2": {
+        "bookmaker": "FanDuel",
+        "odd": 3.9,
+        "stake": 25.62
+      }
+    },
+    "profit_percent": -0.08,
+    "is_surebet": false
+  },
+  {
+    "match": "Hertha Berlin - Eintracht Braunschweig",
+    "event_type": "Bundesliga 2 - Germany",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 1.63,
+        "stake": 61.22
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 4.4,
+        "stake": 22.68
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 6.2,
+        "stake": 16.1
+      }
+    },
+    "profit_percent": -0.21,
+    "is_surebet": false
+  },
+  {
+    "match": "VfL Bochum - Dynamo Dresden",
+    "event_type": "Bundesliga 2 - Germany",
+    "outcomes": {
+      "1": {
+        "bookmaker": "William Hill",
+        "odd": 2.0,
+        "stake": 49.84
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 3.95,
+        "stake": 25.24
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 4.0,
+        "stake": 24.92
+      }
+    },
+    "profit_percent": -0.32,
+    "is_surebet": false
   },
   {
     "match": "KFUM - Bodø/Glimt",
     "event_type": "Eliteserien - Norway",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Smarkets",
         "odd": 8.0,
         "stake": 12.44
       },
@@ -46,49 +115,26 @@
     "is_surebet": false
   },
   {
-    "match": "VfL Bochum - Dynamo Dresden",
-    "event_type": "Bundesliga 2 - Germany",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Pinnacle",
-        "odd": 2.0,
-        "stake": 49.69
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 3.95,
-        "stake": 25.16
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 3.95,
-        "stake": 25.16
-      }
-    },
-    "profit_percent": -0.63,
-    "is_surebet": false
-  },
-  {
-    "match": "Hertha Berlin - Eintracht Braunschweig",
-    "event_type": "Bundesliga 2 - Germany",
+    "match": "Boulogne - Grenoble",
+    "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 1.61,
-        "stake": 61.52
+        "odd": 2.76,
+        "stake": 35.76
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 4.4,
-        "stake": 22.51
+        "bookmaker": "Matchbook",
+        "odd": 3.15,
+        "stake": 31.34
       },
       "2": {
-        "bookmaker": "Smarkets",
-        "odd": 6.2,
-        "stake": 15.97
+        "bookmaker": "Matchbook",
+        "odd": 3.0,
+        "stake": 32.9
       }
     },
-    "profit_percent": -0.96,
+    "profit_percent": -1.29,
     "is_surebet": false
   },
   {
@@ -96,45 +142,22 @@
     "event_type": "Denmark Superliga",
     "outcomes": {
       "1": {
-        "bookmaker": "Smarkets",
-        "odd": 3.9,
-        "stake": 25.32
+        "bookmaker": "Matchbook",
+        "odd": 3.95,
+        "stake": 24.95
       },
       "N": {
         "bookmaker": "BetRivers",
         "odd": 3.9,
-        "stake": 25.32
+        "stake": 25.27
       },
       "2": {
         "bookmaker": "Betfair",
-        "odd": 2.0,
-        "stake": 49.37
+        "odd": 1.98,
+        "stake": 49.78
       }
     },
-    "profit_percent": -1.27,
-    "is_surebet": false
-  },
-  {
-    "match": "Nieciecza - Arka Gdynia",
-    "event_type": "Ekstraklasa - Poland",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 2.18,
-        "stake": 45.21
-      },
-      "N": {
-        "bookmaker": "Coolbet",
-        "odd": 3.5,
-        "stake": 28.16
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.7,
-        "stake": 26.64
-      }
-    },
-    "profit_percent": -1.45,
+    "profit_percent": -1.44,
     "is_surebet": false
   },
   {
@@ -143,21 +166,21 @@
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 2.56,
-        "stake": 38.47
+        "odd": 2.52,
+        "stake": 39.04
       },
       "N": {
-        "bookmaker": "DraftKings",
-        "odd": 2.95,
-        "stake": 33.39
+        "bookmaker": "Pinnacle",
+        "odd": 2.96,
+        "stake": 33.24
       },
       "2": {
         "bookmaker": "Matchbook",
-        "odd": 3.5,
-        "stake": 28.14
+        "odd": 3.55,
+        "stake": 27.72
       }
     },
-    "profit_percent": -1.51,
+    "profit_percent": -1.61,
     "is_surebet": false
   },
   {
@@ -167,20 +190,20 @@
       "1": {
         "bookmaker": "Betfair",
         "odd": 2.6,
-        "stake": 36.92
+        "stake": 37.0
       },
       "N": {
         "bookmaker": "Pinnacle",
-        "odd": 3.67,
-        "stake": 26.16
+        "odd": 3.7,
+        "stake": 26.0
       },
       "2": {
         "bookmaker": "Betfair",
         "odd": 2.6,
-        "stake": 36.92
+        "stake": 37.0
       }
     },
-    "profit_percent": -4.0,
+    "profit_percent": -3.8,
     "is_surebet": false
   }
 ]
