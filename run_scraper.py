@@ -2,14 +2,14 @@
 import json
 import os
 
-from scrapers import odds_api
+from scrapers import football_api
 from surebet_engine import detect_surebets
 
 
 def collect_all_odds():
     odds = []
-    print("Scraping via The Odds API...")
-    odds += odds_api.scrape()
+    print("Scraping via API-FOOTBALL (pré-match)...")
+    odds += football_api.scrape()
     print(f"Total cotes récupérées : {len(odds)}")
     return odds
 
@@ -24,3 +24,4 @@ if __name__ == "__main__":
         json.dump(surebets, f, ensure_ascii=False, indent=2)
 
     print(f"{len(surebets)} surebets trouvés.")
+
