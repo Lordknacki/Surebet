@@ -1,26 +1,26 @@
 [
   {
-    "match": "Boulogne - Grenoble",
-    "event_type": "Ligue 2 - France",
+    "match": "Hertha Berlin - Eintracht Braunschweig",
+    "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
-        "bookmaker": "Bovada",
-        "odd": 2.65,
-        "stake": 38.16
+        "bookmaker": "Betfair",
+        "odd": 1.64,
+        "stake": 60.75
       },
       "N": {
         "bookmaker": "Betfair",
-        "odd": 3.15,
-        "stake": 32.1
+        "odd": 4.4,
+        "stake": 22.64
       },
       "2": {
         "bookmaker": "Matchbook",
-        "odd": 3.4,
-        "stake": 29.74
+        "odd": 6.0,
+        "stake": 16.61
       }
     },
-    "profit_percent": 1.12,
-    "is_surebet": true
+    "profit_percent": -0.37,
+    "is_surebet": false
   },
   {
     "match": "KFUM - Bodø/Glimt",
@@ -92,29 +92,6 @@
     "is_surebet": false
   },
   {
-    "match": "Hertha Berlin - Eintracht Braunschweig",
-    "event_type": "Bundesliga 2 - Germany",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 1.63,
-        "stake": 60.9
-      },
-      "N": {
-        "bookmaker": "Smarkets",
-        "odd": 4.4,
-        "stake": 22.56
-      },
-      "2": {
-        "bookmaker": "Smarkets",
-        "odd": 6.0,
-        "stake": 16.54
-      }
-    },
-    "profit_percent": -0.74,
-    "is_surebet": false
-  },
-  {
     "match": "Annecy FC - SC Bastia",
     "event_type": "Ligue 2 - France",
     "outcomes": {
@@ -161,26 +138,49 @@
     "is_surebet": false
   },
   {
+    "match": "Boulogne - Grenoble",
+    "event_type": "Ligue 2 - France",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Casumo",
+        "odd": 2.48,
+        "stake": 39.73
+      },
+      "N": {
+        "bookmaker": "Smarkets",
+        "odd": 3.15,
+        "stake": 31.28
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 3.4,
+        "stake": 28.98
+      }
+    },
+    "profit_percent": -1.46,
+    "is_surebet": false
+  },
+  {
     "match": "TSG Hoffenheim II - MSV Duisburg",
     "event_type": "3. Liga - Germany",
     "outcomes": {
       "1": {
         "bookmaker": "Paddy Power",
         "odd": 2.7,
-        "stake": 36.23
+        "stake": 36.12
       },
       "N": {
-        "bookmaker": "Pinnacle",
+        "bookmaker": "Betfair",
         "odd": 3.7,
-        "stake": 26.44
+        "stake": 26.36
       },
       "2": {
         "bookmaker": "Betfair",
-        "odd": 2.62,
-        "stake": 37.33
+        "odd": 2.6,
+        "stake": 37.51
       }
     },
-    "profit_percent": -2.18,
+    "profit_percent": -2.46,
     "is_surebet": false
   }
 ]
