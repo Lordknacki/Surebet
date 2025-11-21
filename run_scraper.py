@@ -2,28 +2,22 @@
 import json
 import os
 
-from scrapers import football_api
 from scrapers import football_api_shots
-from surebet_engine import detect_surebets
 
 
-def collect_all_odds():
-    odds = []
-    print("Scraping via API-FOOTBALL (pré-match)...")
-    odds += football_api_shots.scrape()
-    odds += football_api.scrape()
-    print(f"Total cotes récupérées : {len(odds)}")
-    return odds
+def main():
+    os.makedirs("docs", exist_ok=True)
+
+    print("Scraping tirs / tirs cadrés (API-FOOTBALL)...")
+    shot_lines = football_api_shots.scrape()
+    print(f"Total lignes récupérées : {len(shot_lines)}")
+
+    # On écrit le JSON utilisé par le site
+    with open("docs/shots.json", "w", encoding="utf-8") as f:
+        json.dump(shot_lines, f, ensure_ascii=False, indent=2)
+
+    print("Fichier docs/shots.json mis à jour.")
 
 
 if __name__ == "__main__":
-    os.makedirs("docs", exist_ok=True)
-
-    all_odds = collect_all_odds()
-    surebets = detect_surebets(all_odds)
-
-    with open("docs/surebets.json", "w", encoding="utf-8") as f:
-        json.dump(surebets, f, ensure_ascii=False, indent=2)
-
-    print(f"{len(surebets)} surebets trouvés.")
-
+    main()
