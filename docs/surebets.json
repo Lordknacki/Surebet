@@ -9,7 +9,7 @@
         "stake": 12.48
       },
       "N": {
-        "bookmaker": "Betfair",
+        "bookmaker": "Matchbook",
         "odd": 5.5,
         "stake": 18.16
       },
@@ -50,22 +50,22 @@
     "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
-        "bookmaker": "Pinnacle",
-        "odd": 2.81,
-        "stake": 35.35
+        "bookmaker": "Coolbet",
+        "odd": 2.6,
+        "stake": 38.27
       },
       "N": {
         "bookmaker": "Betfair",
         "odd": 3.15,
-        "stake": 31.54
+        "stake": 31.58
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 3.0,
-        "stake": 33.11
+        "bookmaker": "Matchbook",
+        "odd": 3.3,
+        "stake": 30.15
       }
     },
-    "profit_percent": -0.66,
+    "profit_percent": -0.51,
     "is_surebet": false
   },
   {
@@ -73,45 +73,22 @@
     "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
-        "odd": 1.67,
-        "stake": 59.48
+        "bookmaker": "Betfair",
+        "odd": 1.66,
+        "stake": 59.8
       },
       "N": {
         "bookmaker": "Matchbook",
         "odd": 4.3,
-        "stake": 23.1
+        "stake": 23.09
       },
       "2": {
         "bookmaker": "Betfair",
-        "odd": 5.7,
-        "stake": 17.43
+        "odd": 5.8,
+        "stake": 17.12
       }
     },
-    "profit_percent": -0.68,
-    "is_surebet": false
-  },
-  {
-    "match": "Silkeborg IF - AGF Aarhus",
-    "event_type": "Denmark Superliga",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 3.9,
-        "stake": 25.41
-      },
-      "N": {
-        "bookmaker": "Betfair",
-        "odd": 4.0,
-        "stake": 24.78
-      },
-      "2": {
-        "bookmaker": "Smarkets",
-        "odd": 1.99,
-        "stake": 49.81
-      }
-    },
-    "profit_percent": -0.88,
+    "profit_percent": -0.73,
     "is_surebet": false
   },
   {
@@ -121,20 +98,43 @@
       "1": {
         "bookmaker": "Grosvenor",
         "odd": 2.12,
-        "stake": 46.74
+        "stake": 46.75
       },
       "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.6,
-        "stake": 27.52
+        "bookmaker": "Pinnacle",
+        "odd": 3.56,
+        "stake": 27.84
       },
       "2": {
         "bookmaker": "Betfair",
-        "odd": 3.85,
-        "stake": 25.74
+        "odd": 3.9,
+        "stake": 25.41
       }
     },
-    "profit_percent": -0.91,
+    "profit_percent": -0.89,
+    "is_surebet": false
+  },
+  {
+    "match": "Silkeborg IF - AGF Aarhus",
+    "event_type": "Denmark Superliga",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 3.9,
+        "stake": 25.35
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 4.0,
+        "stake": 24.72
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 1.98,
+        "stake": 49.93
+      }
+    },
+    "profit_percent": -1.13,
     "is_surebet": false
   },
   {
@@ -142,22 +142,22 @@
     "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
-        "bookmaker": "Betfair",
+        "bookmaker": "Bovada",
         "odd": 2.42,
-        "stake": 40.65
+        "stake": 40.79
       },
       "N": {
         "bookmaker": "Betfair",
         "odd": 2.94,
-        "stake": 33.46
+        "stake": 33.57
       },
       "2": {
-        "bookmaker": "Smarkets",
-        "odd": 3.8,
-        "stake": 25.89
+        "bookmaker": "Betfair",
+        "odd": 3.85,
+        "stake": 25.64
       }
     },
-    "profit_percent": -1.62,
+    "profit_percent": -1.29,
     "is_surebet": false
   },
   {
@@ -166,21 +166,21 @@
     "outcomes": {
       "1": {
         "bookmaker": "Betfair",
-        "odd": 2.6,
-        "stake": 37.0
+        "odd": 2.64,
+        "stake": 36.75
       },
       "N": {
         "bookmaker": "Pinnacle",
         "odd": 3.7,
-        "stake": 26.0
+        "stake": 26.22
       },
       "2": {
         "bookmaker": "Betfair",
-        "odd": 2.6,
-        "stake": 37.0
+        "odd": 2.62,
+        "stake": 37.03
       }
     },
-    "profit_percent": -3.8,
+    "profit_percent": -2.98,
     "is_surebet": false
   }
 ]
