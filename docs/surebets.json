@@ -5,44 +5,21 @@
     "outcomes": {
       "1": {
         "bookmaker": "Pinnacle",
-        "odd": 2.21,
-        "stake": 51.84
+        "odd": 2.15,
+        "stake": 86.65
       },
       "N": {
-        "bookmaker": "Coolbet",
-        "odd": 3.0,
-        "stake": 38.19
+        "bookmaker": "Unibet",
+        "odd": 15.0,
+        "stake": 12.42
       },
       "2": {
-        "bookmaker": "Matchbook",
-        "odd": 11.5,
-        "stake": 9.96
+        "bookmaker": "Unibet (UK)",
+        "odd": 201.0,
+        "stake": 0.93
       }
     },
-    "profit_percent": 14.58,
-    "is_surebet": true
-  },
-  {
-    "match": "VfL Bochum - Dynamo Dresden",
-    "event_type": "Bundesliga 2 - Germany",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 2.0,
-        "stake": 50.53
-      },
-      "N": {
-        "bookmaker": "Pinnacle",
-        "odd": 4.09,
-        "stake": 24.71
-      },
-      "2": {
-        "bookmaker": "Pinnacle",
-        "odd": 4.08,
-        "stake": 24.77
-      }
-    },
-    "profit_percent": 1.05,
+    "profit_percent": 86.3,
     "is_surebet": true
   },
   {
@@ -75,20 +52,43 @@
       "1": {
         "bookmaker": "Betfair",
         "odd": 7.6,
-        "stake": 13.11
+        "stake": 13.08
       },
       "N": {
         "bookmaker": "Pinnacle",
-        "odd": 5.35,
-        "stake": 18.63
+        "odd": 5.28,
+        "stake": 18.83
       },
       "2": {
         "bookmaker": "Betfair",
         "odd": 1.46,
-        "stake": 68.26
+        "stake": 68.09
       }
     },
-    "profit_percent": -0.34,
+    "profit_percent": -0.59,
+    "is_surebet": false
+  },
+  {
+    "match": "VfL Bochum - Dynamo Dresden",
+    "event_type": "Bundesliga 2 - Germany",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 2.0,
+        "stake": 49.68
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 4.0,
+        "stake": 24.84
+      },
+      "2": {
+        "bookmaker": "Matchbook",
+        "odd": 3.9,
+        "stake": 25.48
+      }
+    },
+    "profit_percent": -0.64,
     "is_surebet": false
   },
   {
@@ -119,7 +119,7 @@
     "event_type": "Denmark Superliga",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Betfair",
         "odd": 3.75,
         "stake": 26.35
       },
@@ -143,21 +143,21 @@
     "outcomes": {
       "1": {
         "bookmaker": "LowVig.ag",
-        "odd": 2.19,
-        "stake": 45.07
+        "odd": 2.16,
+        "stake": 45.41
       },
       "N": {
         "bookmaker": "Matchbook",
         "odd": 3.45,
-        "stake": 28.61
+        "stake": 28.43
       },
       "2": {
         "bookmaker": "Betfair",
         "odd": 3.75,
-        "stake": 26.32
+        "stake": 26.16
       }
     },
-    "profit_percent": -1.3,
+    "profit_percent": -1.91,
     "is_surebet": false
   },
   {
@@ -165,7 +165,7 @@
     "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Betfair",
         "odd": 2.52,
         "stake": 38.85
       },
@@ -175,7 +175,7 @@
         "stake": 33.18
       },
       "2": {
-        "bookmaker": "Pinnacle",
+        "bookmaker": "Matchbook",
         "odd": 3.5,
         "stake": 27.97
       }
