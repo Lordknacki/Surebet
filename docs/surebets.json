@@ -1,25 +1,48 @@
 [
   {
+    "match": "Hertha Berlin - Eintracht Braunschweig",
+    "event_type": "Bundesliga 2 - Germany",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 1.64,
+        "stake": 60.76
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 4.3,
+        "stake": 23.17
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 6.2,
+        "stake": 16.07
+      }
+    },
+    "profit_percent": -0.36,
+    "is_surebet": false
+  },
+  {
     "match": "KFUM - Bodø/Glimt",
     "event_type": "Eliteserien - Norway",
     "outcomes": {
       "1": {
         "bookmaker": "LeoVegas (SE)",
         "odd": 8.0,
-        "stake": 12.48
+        "stake": 12.44
       },
       "N": {
-        "bookmaker": "Betfair",
-        "odd": 5.5,
-        "stake": 18.16
+        "bookmaker": "Smarkets",
+        "odd": 5.4,
+        "stake": 18.43
       },
       "2": {
         "bookmaker": "GTbets",
         "odd": 1.44,
-        "stake": 69.36
+        "stake": 69.12
       }
     },
-    "profit_percent": -0.13,
+    "profit_percent": -0.46,
     "is_surebet": false
   },
   {
@@ -27,7 +50,7 @@
     "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
-        "bookmaker": "Smarkets",
+        "bookmaker": "Betfair",
         "odd": 2.0,
         "stake": 49.69
       },
@@ -43,29 +66,6 @@
       }
     },
     "profit_percent": -0.63,
-    "is_surebet": false
-  },
-  {
-    "match": "Boulogne - Grenoble",
-    "event_type": "Ligue 2 - France",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Bovada",
-        "odd": 2.52,
-        "stake": 39.37
-      },
-      "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.2,
-        "stake": 31.01
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.35,
-        "stake": 29.62
-      }
-    },
-    "profit_percent": -0.78,
     "is_surebet": false
   },
   {
@@ -96,7 +96,7 @@
     "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
-        "bookmaker": "Betfair",
+        "bookmaker": "Matchbook",
         "odd": 2.42,
         "stake": 40.97
       },
@@ -138,26 +138,26 @@
     "is_surebet": false
   },
   {
-    "match": "Hertha Berlin - Eintracht Braunschweig",
-    "event_type": "Bundesliga 2 - Germany",
+    "match": "Boulogne - Grenoble",
+    "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
-        "bookmaker": "Betfair",
-        "odd": 1.63,
-        "stake": 60.58
+        "bookmaker": "BetMGM",
+        "odd": 2.5,
+        "stake": 39.56
       },
       "N": {
-        "bookmaker": "Smarkets",
-        "odd": 4.3,
-        "stake": 22.96
+        "bookmaker": "Matchbook",
+        "odd": 3.2,
+        "stake": 30.91
       },
       "2": {
-        "bookmaker": "Smarkets",
-        "odd": 6.0,
-        "stake": 16.46
+        "bookmaker": "Matchbook",
+        "odd": 3.35,
+        "stake": 29.53
       }
     },
-    "profit_percent": -1.26,
+    "profit_percent": -1.09,
     "is_surebet": false
   },
   {
