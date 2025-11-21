@@ -1,48 +1,25 @@
 [
   {
-    "match": "Corinthians - Sao Paulo",
-    "event_type": "Brazil Série A",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Tipico",
-        "odd": 4.0,
-        "stake": 46.12
-      },
-      "N": {
-        "bookmaker": "Pinnacle",
-        "odd": 4.29,
-        "stake": 43.0
-      },
-      "2": {
-        "bookmaker": "Pinnacle",
-        "odd": 16.96,
-        "stake": 10.88
-      }
-    },
-    "profit_percent": 84.48,
-    "is_surebet": true
-  },
-  {
     "match": "Ceará - Internacional",
     "event_type": "Brazil Série A",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
-        "odd": 2.3,
-        "stake": 43.78
+        "bookmaker": "Betfair",
+        "odd": 6.2,
+        "stake": 16.22
       },
       "N": {
-        "bookmaker": "Winamax (DE)",
-        "odd": 3.35,
-        "stake": 30.06
+        "bookmaker": "Matchbook",
+        "odd": 2.4,
+        "stake": 41.89
       },
       "2": {
-        "bookmaker": "Smarkets",
-        "odd": 3.85,
-        "stake": 26.16
+        "bookmaker": "Matchbook",
+        "odd": 2.4,
+        "stake": 41.89
       }
     },
-    "profit_percent": 0.7,
+    "profit_percent": 0.54,
     "is_surebet": true
   },
   {
@@ -50,22 +27,45 @@
     "event_type": "Liga MX",
     "outcomes": {
       "1": {
-        "bookmaker": "Betfair",
-        "odd": 2.22,
-        "stake": 44.95
+        "bookmaker": "Betway",
+        "odd": 2.1,
+        "stake": 47.48
       },
       "N": {
-        "bookmaker": "Unibet",
-        "odd": 3.65,
-        "stake": 27.34
+        "bookmaker": "Matchbook",
+        "odd": 3.4,
+        "stake": 29.33
       },
       "2": {
         "bookmaker": "Betfair",
-        "odd": 3.6,
-        "stake": 27.72
+        "odd": 4.3,
+        "stake": 23.19
       }
     },
-    "profit_percent": -0.22,
+    "profit_percent": -0.29,
+    "is_surebet": false
+  },
+  {
+    "match": "Silkeborg IF - AGF Aarhus",
+    "event_type": "Denmark Superliga",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Bovada",
+        "odd": 3.85,
+        "stake": 25.85
+      },
+      "N": {
+        "bookmaker": "BetRivers",
+        "odd": 3.85,
+        "stake": 25.85
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 2.06,
+        "stake": 48.31
+      }
+    },
+    "profit_percent": -0.49,
     "is_surebet": false
   },
   {
@@ -74,21 +74,44 @@
     "outcomes": {
       "1": {
         "bookmaker": "Matchbook",
-        "odd": 2.3,
-        "stake": 43.37
+        "odd": 2.28,
+        "stake": 43.6
       },
       "N": {
         "bookmaker": "Unibet",
-        "odd": 3.6,
-        "stake": 27.71
+        "odd": 3.5,
+        "stake": 28.4
       },
       "2": {
-        "bookmaker": "Coolbet",
-        "odd": 3.45,
-        "stake": 28.92
+        "bookmaker": "Matchbook",
+        "odd": 3.55,
+        "stake": 28.0
       }
     },
-    "profit_percent": -0.24,
+    "profit_percent": -0.6,
+    "is_surebet": false
+  },
+  {
+    "match": "Hertha Berlin - Eintracht Braunschweig",
+    "event_type": "Bundesliga 2 - Germany",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Matchbook",
+        "odd": 1.63,
+        "stake": 60.9
+      },
+      "N": {
+        "bookmaker": "Tipico",
+        "odd": 4.4,
+        "stake": 22.56
+      },
+      "2": {
+        "bookmaker": "Smarkets",
+        "odd": 6.0,
+        "stake": 16.54
+      }
+    },
+    "profit_percent": -0.74,
     "is_surebet": false
   },
   {
@@ -98,20 +121,20 @@
       "1": {
         "bookmaker": "Betfair",
         "odd": 3.05,
-        "stake": 32.65
+        "stake": 32.53
       },
       "N": {
         "bookmaker": "Betfair",
         "odd": 3.85,
-        "stake": 25.86
+        "stake": 25.77
       },
       "2": {
         "bookmaker": "Betfair",
-        "odd": 2.4,
-        "stake": 41.49
+        "odd": 2.38,
+        "stake": 41.69
       }
     },
-    "profit_percent": -0.43,
+    "profit_percent": -0.77,
     "is_surebet": false
   },
   {
@@ -119,68 +142,45 @@
     "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
-        "bookmaker": "Matchbook",
-        "odd": 1.92,
-        "stake": 51.72
+        "bookmaker": "Betfair",
+        "odd": 1.87,
+        "stake": 52.59
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 4.1,
+        "stake": 23.99
+      },
+      "2": {
+        "bookmaker": "Smarkets",
+        "odd": 4.2,
+        "stake": 23.42
+      }
+    },
+    "profit_percent": -1.65,
+    "is_surebet": false
+  },
+  {
+    "match": "KFUM - Bodø/Glimt",
+    "event_type": "Eliteserien - Norway",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 7.2,
+        "stake": 13.65
       },
       "N": {
         "bookmaker": "Pinnacle",
-        "odd": 4.03,
-        "stake": 24.64
+        "odd": 5.29,
+        "stake": 18.58
       },
       "2": {
-        "bookmaker": "Betfair",
-        "odd": 4.2,
-        "stake": 23.64
+        "bookmaker": "Smarkets",
+        "odd": 1.45,
+        "stake": 67.77
       }
     },
-    "profit_percent": -0.7,
-    "is_surebet": false
-  },
-  {
-    "match": "Hertha Berlin - Eintracht Braunschweig",
-    "event_type": "Bundesliga 2 - Germany",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 1.62,
-        "stake": 61.04
-      },
-      "N": {
-        "bookmaker": "Winamax (DE)",
-        "odd": 4.4,
-        "stake": 22.48
-      },
-      "2": {
-        "bookmaker": "Matchbook",
-        "odd": 6.0,
-        "stake": 16.48
-      }
-    },
-    "profit_percent": -1.11,
-    "is_surebet": false
-  },
-  {
-    "match": "Silkeborg IF - AGF Aarhus",
-    "event_type": "Denmark Superliga",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Matchbook",
-        "odd": 3.75,
-        "stake": 26.23
-      },
-      "N": {
-        "bookmaker": "BetRivers",
-        "odd": 3.85,
-        "stake": 25.55
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 2.04,
-        "stake": 48.22
-      }
-    },
-    "profit_percent": -1.63,
+    "profit_percent": -1.73,
     "is_surebet": false
   },
   {
@@ -190,20 +190,43 @@
       "1": {
         "bookmaker": "Grosvenor",
         "odd": 2.12,
-        "stake": 45.6
+        "stake": 45.73
       },
       "N": {
         "bookmaker": "DraftKings",
         "odd": 3.5,
-        "stake": 27.62
+        "stake": 27.7
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 3.65,
+        "stake": 26.56
+      }
+    },
+    "profit_percent": -3.04,
+    "is_surebet": false
+  },
+  {
+    "match": "TSG Hoffenheim II - MSV Duisburg",
+    "event_type": "3. Liga - Germany",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Pinnacle",
+        "odd": 2.57,
+        "stake": 36.87
+      },
+      "N": {
+        "bookmaker": "Pinnacle",
+        "odd": 3.65,
+        "stake": 25.96
       },
       "2": {
         "bookmaker": "Pinnacle",
-        "odd": 3.61,
-        "stake": 26.78
+        "odd": 2.55,
+        "stake": 37.16
       }
     },
-    "profit_percent": -3.33,
+    "profit_percent": -5.23,
     "is_surebet": false
   }
 ]
