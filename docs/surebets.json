@@ -1,5 +1,28 @@
 [
   {
+    "match": "Boulogne - Grenoble",
+    "event_type": "Ligue 2 - France",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Bovada",
+        "odd": 2.65,
+        "stake": 38.16
+      },
+      "N": {
+        "bookmaker": "Betfair",
+        "odd": 3.15,
+        "stake": 32.1
+      },
+      "2": {
+        "bookmaker": "Matchbook",
+        "odd": 3.4,
+        "stake": 29.74
+      }
+    },
+    "profit_percent": 1.12,
+    "is_surebet": true
+  },
+  {
     "match": "KFUM - Bodø/Glimt",
     "event_type": "Eliteserien - Norway",
     "outcomes": {
@@ -32,7 +55,7 @@
         "stake": 46.89
       },
       "N": {
-        "bookmaker": "Matchbook",
+        "bookmaker": "Betfair",
         "odd": 3.6,
         "stake": 27.62
       },
@@ -46,26 +69,26 @@
     "is_surebet": false
   },
   {
-    "match": "Boulogne - Grenoble",
-    "event_type": "Ligue 2 - France",
+    "match": "VfL Bochum - Dynamo Dresden",
+    "event_type": "Bundesliga 2 - Germany",
     "outcomes": {
       "1": {
-        "bookmaker": "BetMGM",
-        "odd": 2.5,
-        "stake": 39.74
+        "bookmaker": "Betfair",
+        "odd": 2.0,
+        "stake": 49.68
       },
       "N": {
-        "bookmaker": "Matchbook",
-        "odd": 3.2,
-        "stake": 31.04
+        "bookmaker": "Smarkets",
+        "odd": 3.9,
+        "stake": 25.48
       },
       "2": {
-        "bookmaker": "Matchbook",
-        "odd": 3.4,
-        "stake": 29.22
+        "bookmaker": "Betfair",
+        "odd": 4.0,
+        "stake": 24.84
       }
     },
-    "profit_percent": -0.66,
+    "profit_percent": -0.64,
     "is_surebet": false
   },
   {
@@ -83,7 +106,7 @@
         "stake": 22.56
       },
       "2": {
-        "bookmaker": "Betfair",
+        "bookmaker": "Smarkets",
         "odd": 6.0,
         "stake": 16.54
       }
@@ -92,72 +115,49 @@
     "is_surebet": false
   },
   {
-    "match": "Silkeborg IF - AGF Aarhus",
-    "event_type": "Denmark Superliga",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Matchbook",
-        "odd": 3.95,
-        "stake": 25.11
-      },
-      "N": {
-        "bookmaker": "Smarkets",
-        "odd": 4.0,
-        "stake": 24.8
-      },
-      "2": {
-        "bookmaker": "Betfair",
-        "odd": 1.98,
-        "stake": 50.09
-      }
-    },
-    "profit_percent": -0.81,
-    "is_surebet": false
-  },
-  {
-    "match": "VfL Bochum - Dynamo Dresden",
-    "event_type": "Bundesliga 2 - Germany",
-    "outcomes": {
-      "1": {
-        "bookmaker": "Betfair",
-        "odd": 2.0,
-        "stake": 49.53
-      },
-      "N": {
-        "bookmaker": "Smarkets",
-        "odd": 3.9,
-        "stake": 25.4
-      },
-      "2": {
-        "bookmaker": "Smarkets",
-        "odd": 3.95,
-        "stake": 25.08
-      }
-    },
-    "profit_percent": -0.95,
-    "is_surebet": false
-  },
-  {
     "match": "Annecy FC - SC Bastia",
     "event_type": "Ligue 2 - France",
     "outcomes": {
       "1": {
-        "bookmaker": "888sport",
-        "odd": 2.4,
-        "stake": 41.17
+        "bookmaker": "Matchbook",
+        "odd": 2.42,
+        "stake": 40.97
       },
       "N": {
         "bookmaker": "Betfair",
         "odd": 2.98,
-        "stake": 33.16
+        "stake": 33.27
       },
       "2": {
         "bookmaker": "Betfair",
         "odd": 3.85,
-        "stake": 25.67
+        "stake": 25.75
       }
     },
-    "profit_percent": -1.18,
+    "profit_percent": -0.85,
+    "is_surebet": false
+  },
+  {
+    "match": "Silkeborg IF - AGF Aarhus",
+    "event_type": "Denmark Superliga",
+    "outcomes": {
+      "1": {
+        "bookmaker": "Betfair",
+        "odd": 3.9,
+        "stake": 25.29
+      },
+      "N": {
+        "bookmaker": "Smarkets",
+        "odd": 4.0,
+        "stake": 24.65
+      },
+      "2": {
+        "bookmaker": "Betfair",
+        "odd": 1.97,
+        "stake": 50.06
+      }
+    },
+    "profit_percent": -1.38,
     "is_surebet": false
   },
   {
